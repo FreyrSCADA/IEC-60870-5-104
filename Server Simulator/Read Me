@@ -1,3 +1,7 @@
+IEC-60870-5-104/Server Simulator
+
+Simulate IEC 60870-5-104 server, Monitor information, command transmission
+
 We can add up to 50 server node in the simulator. Every server node will work independently. 
 Simulator window shows the status & connection IP Address, port number, redundancy enabled or not,If Redundancy enabled it shows, the redundant source ip address, port . 
 The user can update the monitoring Point information, and quality bits. Send all type of commands, parameter activation, file transfer.
