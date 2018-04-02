@@ -1,0 +1,23 @@
+IEC 60870-5-104 Client Simulator
+
+Simulate iec104 client/Master,supports all type of ASDU,monitor,command
+
+We can add up to 50 Client node in the simulator. Every Client node will work independently. 
+Simulator window shows the Connection status & connection IP Address, port number. 
+The user can monitor all data Point information, and quality bits. Send all type of commands, parameter activation, file transfer.
+
+Interoperability:
+http://freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Client-Interoperability.pdf
+
+Download Evaluation Kit - IEC 60870-5-104 Development Bundle:
+
+New updated Version of IEC 60870-5-104 Simulator & SDK (Software Development Kit) is available now. 
+
+In the Development Bundle, We included IEC 60870-5-104 Server & Client Simulator, Windows and Linux Software Development Kit.
+
+http://freyrscada.com/iec-60870-5-104.php
+
+Features
+Multiple Master / Client Simulation
+In a Single Client(link) simulate Multiple Stations (Common Address)
+Data Mode, and Test mode connection type available
