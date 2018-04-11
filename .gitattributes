@@ -1,2 +1,3 @@
 $ cat .gitattributes
-*.rb linguist-language=C
+linguist-language=C
+linguist-language=C++
