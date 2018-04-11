@@ -1,3 +1,2 @@
 $ cat .gitattributes
-linguist-language=C
-linguist-language=C++
+*html linguist-language=C
