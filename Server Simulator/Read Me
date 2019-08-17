@@ -1,29 +1,54 @@
-IEC-60870-5-104/Server Simulator
+IEC-60870-5-104 RTU Server Simulator
 
-Simulate IEC 60870-5-104 server, Monitor information, command transmission
+Complete Simulation of IEC 104 Server RTU as per Protocol Standard including File transfer (Both Monitoring and control direction).
 
-We can add up to 50 server node in the simulator. Every server node will work independently. 
-Simulator window shows the status & connection IP Address, port number, redundancy enabled or not,If Redundancy enabled it shows, the redundant source ip address, port . 
-The user can update the monitoring Point information, and quality bits. Send all type of commands, parameter activation, file transfer.
+Add up to 50 server node in the simulator. Every server node will work independently.
 
 Tested with all leading commercial test tools.
 
+Support all type of Typeid ASDU, APCI, APDU, Command activation and termination commands. support all Cause of transmission (COT), Parameter in control direction.
+
 Interoperability:
-http://freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Server-Interoperability.pdf
+http://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Server-Interoperability.pdf
 
 Download Evaluation Kit - IEC 60870-5-104 Development Bundle:
 
-New updated Version of IEC 60870-5-104 Simulator & SDK (Software Development Kit) is available now. 
-
 In the Development Bundle, We included IEC 60870-5-104 Server & Client Simulator, Windows and Linux Software Development Kit.
 
-http://freyrscada.com/iec-60870-5-104.php
+Video tutorial:
+https://www.youtube.com/watch?v=9clfiPrEbls&list=PL4tVfIsUhy1bx7TVjtZnqFB6tbZBhOlJP
+
 
 Features
-Multiple Server node Simulation
-In a Single Server(link) simulate Multiple Stations (Common Address)
-Redundancy Enabled
-Mapping of Control Point to monitor Information point, consider C_SC point can map to M_SP point
-Communication with redundant control systems and interruption-free switch over between redundant systems
-Supports "select-before-operate" or "direct-execute" command execution modes
-supports File Transfer, Directory commands
+
+    * Multiple Server node Simulation
+    * In a Single Server(link) simulate Multiple Stations (Common Address)
+    * Redundancy Enabled
+    * Mapping of Control Point to monitor Information point, consider C_SC point can map to M_SP point
+    * Communication with redundant control systems and interruption-free switch over between redundant systems
+    * Supports "select-before-operate" or "direct-execute" command execution modes
+    * supports File Transfer, Directory commands ( Monitor and control direction )
+    * On-demand transmission (single indications, analog )
+    * Clock synchronization
+    * parameter activation commands
+    * Spontaneous transmission (single indications with time tag)
+    * One-time payment, royalty-free 
+	* Neither license manager nor dongle required.
+	
+	
+
+http://www.freyrscada.com/iec-60870-5-104.php
+
+http://www.freyrscada.com/iec-60870-5-104-Server-Simulator.php
+
+http://www.freyrscada.com/iec-60870-5-104-Client-Simulator.php
+
+http://www.freyrscada.com/iec-60870-5-104-Windows-Software-Development-Kit(SDK).php
+
+http://www.freyrscada.com/iec-60870-5-104-Linux-Software-Development-Kit(SDK).php
+
+http://www.freyrscada.com/iec-60870-5-104-Source-Code-Library.html
+
+
+
+

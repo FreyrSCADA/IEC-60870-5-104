@@ -1,23 +1,46 @@
-IEC 60870-5-104 Client Simulator
+IEC 60870-5-104 Client Master Simulator
 
-Simulate iec104 client/Master,supports all type of ASDU,monitor,command
+Complete Simulation of IEC 104 Client as per Protocol Standard including File transfer (Both Monitoring and control direction).
 
-We can add up to 50 Client node in the simulator. Every Client node will work independently. 
-Simulator window shows the Connection status & connection IP Address, port number. 
+Add up to 50 Client node in the simulator. Every Client node will work independently.
+
 The user can monitor all data Point information, and quality bits. Send all type of commands, parameter activation, file transfer.
 
+* License Perpetual One-time payment, royalty-free Neither license manager nor dongle required
+
 Interoperability:
-http://freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Client-Interoperability.pdf
+http://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Client-Interoperability.pdf
 
 Download Evaluation Kit - IEC 60870-5-104 Development Bundle:
 
-New updated Version of IEC 60870-5-104 Simulator & SDK (Software Development Kit) is available now. 
-
 In the Development Bundle, We included IEC 60870-5-104 Server & Client Simulator, Windows and Linux Software Development Kit.
 
-http://freyrscada.com/iec-60870-5-104.php
+Video tutorial:
+https://www.youtube.com/watch?v=9clfiPrEbls&list=PL4tVfIsUhy1bx7TVjtZnqFB6tbZBhOlJP
+
 
 Features
-Multiple Master / Client Simulation
-In a Single Client(link) simulate Multiple Stations (Common Address)
-Data Mode, and Test mode connection type available
+
+	* Multiple Master / Client Simulation
+	* In a Single Client(link) simulate Multiple Stations (Common Address)
+	* Data Mode, and Test mode connection type available
+	* Supports "Select-Before-Operate" SBO or "Direct-execute" command execution modes
+	* supports File Transfer, Directory commands
+	* Clock synchronization
+	* License Perpetual One-time payment, royalty-free Neither license manager nor dongle required
+	* Support all type of Typeid, ASDU, APCI, APDU, Command activation and termination commands, support all Cause of transmission (COT), Parameter in control direction.
+	* http://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Client-Simulator-User-Manual.pdf
+	
+	
+
+http://www.freyrscada.com/iec-60870-5-104.php
+
+http://www.freyrscada.com/iec-60870-5-104-Server-Simulator.php
+
+http://www.freyrscada.com/iec-60870-5-104-Client-Simulator.php
+
+http://www.freyrscada.com/iec-60870-5-104-Windows-Software-Development-Kit(SDK).php
+
+http://www.freyrscada.com/iec-60870-5-104-Linux-Software-Development-Kit(SDK).php
+
+http://www.freyrscada.com/iec-60870-5-104-Source-Code-Library.html
