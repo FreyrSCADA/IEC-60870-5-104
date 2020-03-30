@@ -54,13 +54,23 @@ https://www.freyrscada.com/iec-60870-5-104-Source-Code-Library.html
 
 
 facebook -- https://www.facebook.com/IEC104/
+
 twitter -- https://twitter.com/FreyrScada      
+
 linkedin -- https://in.linkedin.com/showcase/iec-60870-5-104  
+
 youtube -- https://www.youtube.com/playlist?list=PL4tVfIsUhy1bx7TVjtZnqFB6tbZBhOlJP
+
 vimeo -- https://vimeo.com/freyrscada
+
 pinterest -- https://in.pinterest.com/FreyrSCADA/iec-60870-5-104/
+
 tumblr -- https://freyrscada.tumblr.com
+
 blog -- https://iec60870-5-104.blogspot.in
+
 skype -- skype:freyrscada?chat
+
 telegram -- https://t.me/s/iec_60870_5_104_protocol
+
 instagram -- https://www.instagram.com/explore/tags/iec104_protocol/
