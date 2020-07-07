@@ -29,7 +29,7 @@ Features
 	* Clock synchronization
 	* License Perpetual One-time payment, royalty-free Neither license manager nor dongle required
 	* Support all type of Typeid, ASDU, APCI, APDU, Command activation and termination commands, support all Cause of transmission (COT), Parameter in control direction.
-	* http://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Client-Simulator-User-Manual.pdf
+	* https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Client-Simulator-User-Manual.pdf
 	
 	
 
