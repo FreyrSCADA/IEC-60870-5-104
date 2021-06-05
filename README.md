@@ -422,8 +422,8 @@ You can use the source code of the application examples and modify them accordin
 
 
 
-[IEC 60870-5-104 Protocol Linux Software Development Kit C C++ ARM](https://www.freyrscada.com/iec-60870-5-104-Linux-Software-Development-Kit(SDK).php)
-===================================================================
+# [IEC 60870-5-104 Protocol Linux Software Development Kit C C++ ARM](https://www.freyrscada.com/iec-60870-5-104-Linux-Software-Development-Kit(SDK).php)
+
 
 IEC 104 Demo Linux Shared Library includes simple (Server & Client C programs )example using a Command window and command line inputs.
 
@@ -459,8 +459,7 @@ gcc - Any IDE supports C & C++ Programming, support all your cross tool chain
 
 
 
-[#IEC 104 Protocol Video Tutorial](https://www.youtube.com/playlist?list=PL4tVfIsUhy1bx7TVjtZnqFB6tbZBhOlJP)
-=================================
+# [IEC 60870-5 part 104 Protocol Video Tutorial](https://www.youtube.com/playlist?list=PL4tVfIsUhy1bx7TVjtZnqFB6tbZBhOlJP)
 
 
 
