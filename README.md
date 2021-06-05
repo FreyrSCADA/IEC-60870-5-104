@@ -85,9 +85,8 @@ high configurability allows to use required features only, royalty-free licensin
 
  - Protection relays
  
- 
- 
-​## Standard IEC 60870-5-104 data types ASDU - Typeids
+  
+## Standard IEC 60870-5-104 ASDU - Typeids
 
 
 Type            Dec             Description
@@ -273,9 +272,17 @@ In this License model, We deliver Dynamic/ Static compiled library (dll / lib) o
 Customer may embed the library into unlimited copies of Multiple end-use products for worldwide manufacturing, branding and distribution. Original equipment manufacturers choose this model. They usually have multiple products in their pipeline.
 
 
+### Simulator License model: (Annual subscription based)
+
+In this License model, We deliver Simulator Installer for Windows Operating System.
+
+The Customer can use the software company wide. Customer can install the software in many systems.
+
+There is no restriction like Hardware key (Dongle) and software key.
+
+
 
 # [IEC 60870-5-104 RTU Server Simulator](https://www.freyrscada.com/iec-60870-5-104-Server-Simulator.php)
-
 
 
 Complete Simulation of IEC 104 Server as per Protocol Standard including File transfer (Both Monitoring and control direction).
@@ -306,7 +313,7 @@ Simulator window shows the status & connection ip address, port number, redundan
 The user can update the monitoring Point information. The following parameters can change Value and quality bits.
 
 
-## Features
+Features
 
 
  - Multiple Server Simulation
@@ -332,29 +339,12 @@ The user can update the monitoring Point information. The following parameters c
  - Spontaneous transmission (e. g. single indications with time tag ...)
 
 
-## License
-
-Perpetual
-
-Neither license manager nor dongle required
-
-No limitation of system installation - unlimited
-
-
-### Simulator License model: (Annual subscription based)
-
-In this License model, We deliver Simulator Installer for Windows Operating System.
-
-The Customer can use the software company wide. Customer can install the software in many systems.
-
-There is no restriction like Hardware key (Dongle) and software key.
-
 
 [IEC 60870-5-104 Protocol RTU Server Simulator User Manual](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Server-Simulator-User-Manual.pdf)
 
 
-[IEC 60870-5-104 Protocol Client Master Simulator](https://www.freyrscada.com/iec-60870-5-104-Client-Simulator.php)
-===================================================
+# [IEC 60870-5-104 Protocol Client Master Simulator](https://www.freyrscada.com/iec-60870-5-104-Client-Simulator.php)
+
 
 Complete Simulation of IEC 104 Client as per Protocol Standard including File transfer (Both Monitoring and control direction).
 
@@ -383,7 +373,7 @@ Simulator window shows the Connection status, connection ip address and port num
 
 
 Features
-========
+
 
  - Multiple Master / Client Simulation
 
@@ -400,32 +390,12 @@ Features
  - Parameter command
 
 
-License
-=======
-
-Perpetual
-
-One-time payment, royalty-free
-
-Neither license manager nor dongle required
-
-Simulator License model: (Annual subscription based)
-=======================
-
-In this License model, We deliver Simulator Installer for Windows Operating System.
-
-The Customer can use the software company wide. Customer can install the software in many systems.
-
-There is no restriction like Hardware key (Dongle) and software key.
-
-
 
 [IEC 60870-5-104 Protocol Client Master Simulator User Manual](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Client-Simulator-User-Manual.pdf)
 
 
 
-[IEC 60870-5 part 104 Windows Software Development Kit C, C++ C# .NET]()
-=======================================================================
+# [IEC 60870-5 part 104 Windows Software Development Kit C, C++ C# .NET](https://www.freyrscada.com/iec-60870-5-104-Windows-Software-Development-Kit(SDK).php)
 
 
 IEC 60870-5-104 Demo Win DLL includes simple (Server & Client C programs, c# .net )example using a Command window and command line inputs.
@@ -449,25 +419,6 @@ Modify and compile the IEC 60870-5-104 examples
 Create your own IEC 60870-5-104 programs and test with leading test tools
 
 You can use the source code of the application examples and modify them according to your needs.
-
-
-Licensing
-=========
-
-Source Code License model:
-=========================
-
-In this License model, We deliver complete source code of the protocol implementation according to the customer specified operating system(Windows, Linux, QNX...).
-
-Customer may embed the library into unlimited copies of Multiple end-use products for worldwide manufacturing, branding and distribution. Original equipment manufacturers choose this model. They usually have multiple products in their pipeline.
-
-
-Compiled Library License model:
-==============================
-
-In this License model, We deliver Dynamic/ Static compiled library (dll / lib) of the protocol implementation according to the customer specified operating system(Windows, Linux, QNX...).
-
-Customer may embed the library into unlimited copies of Multiple end-use products for worldwide manufacturing, branding and distribution. Original equipment manufacturers choose this model. They usually have multiple products in their pipeline.
 
 
 
@@ -500,30 +451,11 @@ This evaluation package allows you to:
 
 
 Minimum system requirements
-===========================
 
 Supports Embedded Linux (ARM, Coldfire, Power PC), Ubuntu Linux(X86, X86-64), Fedora, CentOS, Red Hat...(All Posix Compliant Operating Systems)
 
 gcc - Any IDE supports C & C++ Programming, support all your cross tool chain
 
-
-
-Licensing
-=========
-
-Source Code License model:
-=========================
-
-In this License model, We deliver complete source code of the protocol implementation according to the customer specified operating system(Windows, Linux, QNX...).
-
-Customer may embed the library into unlimited copies of Multiple end-use products for worldwide manufacturing, branding and distribution. Original equipment manufacturers choose this model. They usually have multiple products in their pipeline.
-
-
-Compiled Library License model:
-==============================
-In this License model, We deliver Dynamic/ Static compiled library (dll / lib) of the protocol implementation according to the customer specified operating system(Windows, Linux, QNX...).
-
-Customer may embed the library into unlimited copies of Multiple end-use products for worldwide manufacturing, branding and distribution. Original equipment manufacturers choose this model. They usually have multiple products in their pipeline.
 
 
 
