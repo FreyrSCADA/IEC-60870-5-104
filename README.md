@@ -1,6 +1,6 @@
-# IEC 60870-5-104 Protocol
-==========================
-[IEC 60870-5-104 Protocol](https://www.freyrscada.com/iec-60870-5-104.php) - RTU Server Simulator, Master Client Simulator, Windows and Linux (ARM), Source Code in C, C++, C# .NET Programming
+# [IEC 60870-5-104 Protocol](https://www.freyrscada.com/iec-60870-5-104.php)
+
+RTU Server Simulator, Master Client Simulator, Windows and Linux (ARM), Source Code in C, C++, C# .NET Programming
 
 IEC 60870-5-104 enables communication between IED, RTU control station and substation via a standard TCP/IP network. 
 The TCP protocol is used for connection-oriented secure data transmission.
@@ -24,8 +24,8 @@ Make your RTU, protocol converter, Gateway, HMI, Data concentrator compatible wi
 In the Development Bundle, We included IEC 104 Protocol Server  Client Simulator, Windows and Linux SDK, C# projects, Doxygen documentation and Raspberry Pi, BeagleBone Demo library.
 
 
-#[IEC 60870-5-104 Source Code Windows C C++ C# .net Linux Arm POSIX C C++](https://www.freyrscada.com/iec-60870-5-104-Source-Code-Library.html)
-==========================================================================
+# [IEC 60870-5-104 Source Code Windows C C++ C# .net Linux Arm POSIX C C++](https://www.freyrscada.com/iec-60870-5-104-Source-Code-Library.html)
+
 
 The most complete implementation of IEC 104 protocol stack including File transfer (Monitor and Control Direction), Directory Commnads, Supports all type of Monitoring, command , parameter ASDUs.
 
@@ -33,8 +33,9 @@ Low memory footprint, easy start on any hardware platform, can operate with or w
 
 high configurability allows to use required features only, royalty-free licensing.
 
-Salient Features
-================
+
+## Salient Features
+
 
  - Written in ANSI-Standard C Source Code, under a strict corporate coding standard, and supports C++, C#
 
@@ -68,8 +69,7 @@ Salient Features
 
 
 
-Application Examples
-====================
+## Application Examples
 
  - Integrate existing devices to a modern control system with a field proven product
 
@@ -84,11 +84,10 @@ Application Examples
  - Reclosers
 
  - Protection relays
-
-
-
-​Standard IEC 60870-5-104 data types ASDU - Typeids
-==================================================
+ 
+ 
+ 
+​## Standard IEC 60870-5-104 data types ASDU - Typeids
 
 
 Type            Dec             Description
@@ -244,8 +243,8 @@ ASDU_TYPE_127..255  127..255  Reserved (user area)
 
 
 
-Knowledge Base - Interoperability
-=================================
+## Knowledge Base - Interoperability
+
 
 
 [IEC 60870-5-104 Protocol Server Interoperability](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Server-Interoperability.pdf)
@@ -255,19 +254,19 @@ Knowledge Base - Interoperability
 
  
 
-Licensing
-=========
+## Licensing
 
 
-[Source Code License model:](https://www.freyrscada.com/iec-60870-5-104-Source-Code-Library.html)
-============================
+### [Source Code License model:](https://www.freyrscada.com/iec-60870-5-104-Source-Code-Library.html)
+
 In this License model, We deliver complete source code of the protocol implementation according to the customer specified operating system(Windows, Linux, QNX...).
 
 Customer may embed the library into unlimited copies of Multiple end-use products for worldwide manufacturing, branding and distribution. Original equipment manufacturers choose this model. They usually have multiple products in their pipeline.
 
 
 
-Compiled Library License model:
+### Compiled Library License model:
+
 
 In this License model, We deliver Dynamic/ Static compiled library (dll / lib) of the protocol implementation according to the customer specified operating system(Windows, Linux, QNX...).
 
@@ -275,8 +274,8 @@ Customer may embed the library into unlimited copies of Multiple end-use product
 
 
 
-[#IEC 60870-5-104 RTU Server Simulator](https://www.freyrscada.com/iec-60870-5-104-Server-Simulator.php)
-=====================================
+# [IEC 60870-5-104 RTU Server Simulator](https://www.freyrscada.com/iec-60870-5-104-Server-Simulator.php)
+
 
 
 Complete Simulation of IEC 104 Server as per Protocol Standard including File transfer (Both Monitoring and control direction).
@@ -307,8 +306,8 @@ Simulator window shows the status & connection ip address, port number, redundan
 The user can update the monitoring Point information. The following parameters can change Value and quality bits.
 
 
-Features
-========
+## Features
+
 
  - Multiple Server Simulation
 
@@ -333,8 +332,8 @@ Features
  - Spontaneous transmission (e. g. single indications with time tag ...)
 
 
-License
-=======
+## License
+
 Perpetual
 
 Neither license manager nor dongle required
@@ -342,8 +341,7 @@ Neither license manager nor dongle required
 No limitation of system installation - unlimited
 
 
-Simulator License model: (Annual subscription based)
-=======================
+### Simulator License model: (Annual subscription based)
 
 In this License model, We deliver Simulator Installer for Windows Operating System.
 
@@ -355,7 +353,7 @@ There is no restriction like Hardware key (Dongle) and software key.
 [IEC 60870-5-104 Protocol RTU Server Simulator User Manual](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Server-Simulator-User-Manual.pdf)
 
 
-[#IEC 60870-5-104 Protocol Client Master Simulator](https://www.freyrscada.com/iec-60870-5-104-Client-Simulator.php)
+[IEC 60870-5-104 Protocol Client Master Simulator](https://www.freyrscada.com/iec-60870-5-104-Client-Simulator.php)
 ===================================================
 
 Complete Simulation of IEC 104 Client as per Protocol Standard including File transfer (Both Monitoring and control direction).
@@ -401,6 +399,7 @@ Features
 
  - Parameter command
 
+
 License
 =======
 
@@ -425,7 +424,7 @@ There is no restriction like Hardware key (Dongle) and software key.
 
 
 
-[#IEC 60870-5 part 104 Windows Software Development Kit C, C++ C# .NET]()
+[IEC 60870-5 part 104 Windows Software Development Kit C, C++ C# .NET]()
 =======================================================================
 
 
@@ -438,7 +437,6 @@ We used Visual studio compiler to create the dll, sample test projects.
 
 
 This evaluation package allows you to:
-
 
 Access product manual(API documentation)(pdf, Doxygen html)
 
@@ -473,7 +471,8 @@ Customer may embed the library into unlimited copies of Multiple end-use product
 
 
 
-[#IEC 60870-5-104 Protocol Linux Software Development Kit C C++ ARM](https://www.freyrscada.com/iec-60870-5-104-Linux-Software-Development-Kit(SDK).php)
+[IEC 60870-5-104 Protocol Linux Software Development Kit C C++ ARM](https://www.freyrscada.com/iec-60870-5-104-Linux-Software-Development-Kit(SDK).php)
+===================================================================
 
 IEC 104 Demo Linux Shared Library includes simple (Server & Client C programs )example using a Command window and command line inputs.
 
