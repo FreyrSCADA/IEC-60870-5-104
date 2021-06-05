@@ -15,7 +15,7 @@ The result of this work is IEC 60870-5. Five documents specify the base IEC 6087
 - IEC 60870-5-4 Definition and Coding of Information Elements
 - IEC 60870-5-5 Basic Application Functions
 
-![IEC 60870-5-104 Protocol](https://www.freyrscada.com/images/104w320x220.jpg)
+![IEC 60870-5-104 Protocol](./img/iec-60870-5-104-protocol.jpg)
 
 Make your RTU, protocol converter, Gateway, HMI, Data concentrator compatible with iec 104.
 
