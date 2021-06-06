@@ -1,4 +1,4 @@
-# [IEC 60870-5-104 RTU IED Server Simulator](https://www.freyrscada.com/iec-60870-5-104-Server-Simulator.php)
+# [IEC 60870 5 part 104 Protocol RTU IED Server Simulator](https://www.freyrscada.com/iec-60870-5-104-Server-Simulator.php)
 
 
 IEC 60870-5-104 enables communication between IED, RTU control station and substation via a standard TCP/IP network. 
@@ -23,7 +23,7 @@ In the Development Bundle, We included IEC 104 Protocol Server  Client Simulator
 
 Complete Simulation of IEC 104 Server as per Protocol Standard including File transfer (Both Monitoring and control direction).
 
-[![IEC 60870-5-104 Protocol RTU IED Server Simulator](./img/iec104-server-sim.jpg)](https://www.freyrscada.com/iec-60870-5-104-Server-Simulator.php)
+[![IEC 60870-5-104 Protocol RTU IED Server Simulator](https://github.com/FreyrSCADA/IEC-60870-5-104/raw/master/img/iec104-server-sim.jpg)](https://www.freyrscada.com/iec-60870-5-104-Server-Simulator.php)
 
 
 ​Support all type of ASDU Typeid according to protocol specification
@@ -51,8 +51,7 @@ Simulator window shows the status & connection ip address, port number, redundan
 The user can update the monitoring Point information. The following parameters can change Value and quality bits.
 
 
-Features
-
+## Features
 
  - Multiple Server Simulation
 
