@@ -27,7 +27,7 @@ Make your RTU, protocol converter, Gateway, HMI, Data concentrator compatible wi
 * [IEC 60870-5 104 Protocol Video](#iec-60870-5-part-104-protocol-video-tutorial)
 
 
-[Download Evaluation Kit - IEC 104 Development Bundle](https://www.freyrscada.com/iec-60870-5-104.php#Download-IEC60870-5-104-Development-Bundle)
+## [Download Evaluation Kit - IEC 104 Development Bundle](https://www.freyrscada.com/iec-60870-5-104.php#Download-IEC60870-5-104-Development-Bundle)
 
 In the Development Bundle, We included IEC 104 Protocol Server  Client Simulator, Windows and Linux SDK, C# projects, Doxygen documentation and Raspberry Pi, BeagleBone Demo library.
 
@@ -77,7 +77,6 @@ high configurability allows to use required features only, royalty-free licensin
  - Source Code Library allows a fast and cost efficient implementation
 
  - APIs are designed to be very easy to use and flexible
-
 
 
 ## Application Examples
@@ -255,10 +254,7 @@ ASDU_TYPE_127..255  127..255  Reserved (user area)
 
 ## Knowledge Base - Interoperability
 
-
-
 [IEC 60870-5-104 Protocol Server Interoperability](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Server-Interoperability.pdf)
-
 
 [IEC 60870-5-104 protocol Client Interoperability](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Client-Interoperability.pdf)
 
@@ -274,22 +270,27 @@ In this License model, We deliver complete source code of the protocol implement
 Customer may embed the library into unlimited copies of Multiple end-use products for worldwide manufacturing, branding and distribution. Original equipment manufacturers choose this model. They usually have multiple products in their pipeline.
 
 
-
 ### Compiled Library License model:
-
 
 In this License model, We deliver Dynamic/ Static compiled library (dll / lib) of the protocol implementation according to the customer specified operating system(Windows, Linux, QNX...).
 
 Customer may embed the library into unlimited copies of Multiple end-use products for worldwide manufacturing, branding and distribution. Original equipment manufacturers choose this model. They usually have multiple products in their pipeline.
 
 
-### Simulator License model: (Annual subscription based)
+### Simulator License model:
 
-In this License model, We deliver Simulator Installer for Windows Operating System.
+Annual subscription Based license:
 
-The Customer can use the software company wide. Customer can install the software in many systems.
+An Annual License allows the customer to use the licensed software for one year, download updates and request technical support. At the end of the year the customer must renew their term license to continue using the software.
+In this License model, FreyrSCADA deliver Simulator Installer for Windows Operating System.
+The Customer can use the software company wide. Customer can install the software in many systems. There is no restriction like Hardware key (Dongle) and software key. 
 
-There is no restriction like Hardware key (Dongle) and software key.
+Unlimited year license:
+
+A Perpetual License allows the customer to purchase a license to use the software forever. The Perpetual License also comes with an annual renewal fee that enables the customer to update the software to the latest version.
+In this License model, FreyrSCADA deliver Simulator Installer for Windows Operating System.
+The Customer can use the software company wide. Customer can install the software in many systems. There is no restriction like Hardware key (Dongle) and software key. 
+For Unlimited year license, after a year, you will have the option to renew the Maintenance Plan to continue receiving technical support and upgrades.  The renewal price after a year is 10% of the product list price at the time of renewal (optional). Without renew the AMC also the software works. But for technical support and upgrades, the customer has an option for AMC.
 
 
 
@@ -326,7 +327,7 @@ Simulator window shows the status & connection ip address, port number, redundan
 The user can update the monitoring Point information. The following parameters can change Value and quality bits.
 
 
-Features
+## Features
 
 
  - Multiple Server Simulation
@@ -352,8 +353,8 @@ Features
  - Spontaneous transmission (e. g. single indications with time tag ...)
 
 
+## [IEC 60870-5-104 Protocol RTU Server Simulator User Manual](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Server-Simulator-User-Manual.pdf)
 
-[IEC 60870-5-104 Protocol RTU Server Simulator User Manual](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Server-Simulator-User-Manual.pdf)
 
 
 # [IEC 60870-5-104 Protocol Client Master Simulator](https://www.freyrscada.com/iec-60870-5-104-Client-Simulator.php)
@@ -362,7 +363,6 @@ Features
 Complete Simulation of IEC 104 Client as per Protocol Standard including File transfer (Both Monitoring and control direction).
 
 [![IEC 60870-5 part 104 Protocol Client Master Simulator](./img/iec104-client-sim.jpg)](https://www.freyrscada.com/iec-60870-5-104-Client-Simulator.php)
-
 
 
 ​Support all type of ASDU Typeid according to protocol specification
@@ -380,7 +380,6 @@ Complete Simulation of IEC 104 Client as per Protocol Standard including File tr
 6) File transfer ( Both Monitor And Control Direction) F_FR, F_SR, F_SC
 
 
-
 IEC 104 Client Simulator was originally developed to test the functionalities of IEC 60870-5-104 stack Client operation.
 
 We can add up to 50 Client node in the simulator. Every Client node will work independently.
@@ -388,8 +387,7 @@ We can add up to 50 Client node in the simulator. Every Client node will work in
 Simulator window shows the Connection status, connection ip address and port number.
 
 
-Features
-
+## Features
 
  - Multiple Master / Client Simulation
 
@@ -406,8 +404,7 @@ Features
  - Parameter command
 
 
-
-[IEC 60870-5-104 Protocol Client Master Simulator User Manual](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Client-Simulator-User-Manual.pdf)
+## [IEC 60870-5-104 Protocol Client Master Simulator User Manual](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Client-Simulator-User-Manual.pdf)
 
 
 
@@ -437,7 +434,6 @@ Modify and compile the IEC 60870-5-104 examples
 Create your own IEC 60870-5-104 programs and test with leading test tools
 
 You can use the source code of the application examples and modify them according to your needs.
-
 
 
 # [IEC 60870-5-104 Protocol Linux Development POSIX C C++ ARM](https://www.freyrscada.com/iec-60870-5-104-Linux-Software-Development-Kit(SDK).php)
