@@ -15,7 +15,7 @@ The result of this work is IEC 60870-5. Five documents specify the base IEC 6087
 - IEC 60870-5-5 Basic Application Functions
 
 
-[Download Evaluation Kit - IEC 104 Development Bundle](https://www.freyrscada.com/iec-60870-5-104.php#Download-IEC60870-5-104-Development-Bundle)
+# [Download Evaluation Kit - IEC 104 Development Bundle](https://www.freyrscada.com/iec-60870-5-104.php#Download-IEC60870-5-104-Development-Bundle)
 
 In the Development Bundle, We included IEC 104 Protocol Server  Client Simulator, Windows and Linux SDK, C# projects, Doxygen documentation and Raspberry Pi, BeagleBone Demo library.
 
@@ -90,19 +90,20 @@ The user can update the monitoring Point information. The following parameters c
 
 
 
-## Licensing
+## Simulator License model:
 
-### Simulator License model: (Annual subscription based)
+### Annual subscription Based license:
 
-In this License model, We deliver Simulator Installer for Windows Operating System.
+An Annual License allows the customer to use the licensed software for one year, download updates and request technical support. At the end of the year the customer must renew their term license to continue using the software.
+In this License model, FreyrSCADA deliver Simulator Installer for Windows Operating System.
+The Customer can use the software company wide. Customer can install the software in many systems. There is no restriction like Hardware key (Dongle) and software key. 
 
-The Customer can use the software company wide. Customer can install the software in many systems.
+### Unlimited year license:
 
-There is no restriction like Hardware key (Dongle) and software key.
-
-
-
-# [IEC 60870-5 part 104 Protocol Video Tutorial](https://www.youtube.com/playlist?list=PL4tVfIsUhy1bx7TVjtZnqFB6tbZBhOlJP)
+A Perpetual License allows the customer to purchase a license to use the software forever. The Perpetual License also comes with an annual renewal fee that enables the customer to update the software to the latest version.
+In this License model, FreyrSCADA deliver Simulator Installer for Windows Operating System.
+The Customer can use the software company wide. Customer can install the software in many systems. There is no restriction like Hardware key (Dongle) and software key. 
+For Unlimited year license, after a year, you will have the option to renew the Maintenance Plan to continue receiving technical support and upgrades.  The renewal price after a year is 10% of the product list price at the time of renewal (optional). Without renew the AMC also the software works. But for technical support and upgrades, the customer has an option for AMC.
 
 
 ## Standard IEC 60870-5-104 ASDU - Typeids
@@ -276,6 +277,36 @@ ASDU_TYPE_127..255  127..255  Reserved (user area)
 
  - Protection relays
  
+# [IEC 60870-5 part 104 Protocol Video Tutorial](https://www.youtube.com/playlist?list=PL4tVfIsUhy1bx7TVjtZnqFB6tbZBhOlJP)
+
+## [IEC 60870-5-104 Protocol Product Description Video](https://www.freyrscada.com/iec-60870-5-104-video.html)	
+[![IEC 60870-5-104 Protocol Product Description Video](https://www.freyrscada.com/images/iec104videoicon.jpg)](https://www.freyrscada.com/iec-60870-5-104-video.html)
+
+## [IEC 60870-5-104 Protocol Server Simulator test with third party tool](https://www.freyrscada.com/IEC104_Server_Simulator_Testing.html)	
+[![IEC 60870-5-104 Protocol Server Simulator test with third party tool](https://www.freyrscada.com/images/iec104-server-simulator-testing.jpg)](https://www.freyrscada.com/IEC104_Server_Simulator_Testing.html)
+
+## [IEC 60870-5-104 Protocol Client Master Simulator test with third party tool](https://www.freyrscada.com/IEC104_Client_Simulator_Testing.html)	
+[![IEC 60870-5-104 Protocol Client Master Simulator test with third party tool](https://www.freyrscada.com/images/iec104-client-simulator-testing.jpg)](https://www.freyrscada.com/IEC104_Client_Simulator_Testing.html)
+
+## [IEC 60870-5-104 Protocol Server and Client Simulator - File Transfer, Directory command operation](https://www.freyrscada.com/IEC-60870-5-104-Server-Client-File-Transfer-video.html)	
+[![IEC 60870-5-104 Protocol Server and Client Simulator - File Transfer, Directory command operation](https://www.freyrscada.com/images/iec104videoiconfiletransfer.jpg)](https://www.freyrscada.com/IEC-60870-5-104-Server-Client-File-Transfer-video.html)
+
+## [IEC 60870-5-104 Protocol Server Simulator with Kepware OPC](https://www.freyrscada.com/IEC104_Server_Simulator_Kepware_OPC.html)	
+[![IEC 60870-5-104 Protocol Server Simulator with Kepware OPC](https://www.freyrscada.com/images/IEC104_Server_Simulator_Kepware_OPC.jpg)](https://www.freyrscada.com/IEC104_Server_Simulator_Kepware_OPC.html)
+
+## [IEC 60870-5-104 Protocol File transfer - Control Direction](https://www.freyrscada.com/IEC104-Filetransfer-controldirection.html)	
+[![IEC 60870-5-104 Protocol File transfer - Control Direction](https://www.freyrscada.com/images/iec104-filetransfer-controldirection.jpg)](https://www.freyrscada.com/IEC104-Filetransfer-controldirection.html)
+
+## [IEC 60870-5-104 Protocol Server Simulator With Reliance HMI SCADA](https://www.freyrscada.com/IEC104_Server_Simulator_Reliance-HMI-SCADA.html)	
+[![IEC 60870-5-104 Protocol Server Simulator With Reliance HMI SCADA](https://www.freyrscada.com/images/IEC104_Server_Simulator_Reliance-HMI-SCADA.jpg)](https://www.freyrscada.com/IEC104_Server_Simulator_Reliance-HMI-SCADA.html)
+
+## [IEC 60870-5-104 Protocol Server in Beaglebone Arm Linux](https://www.freyrscada.com/IEC104_Server_Beaglebone_Arm_Linux.html)	
+[![IEC 60870-5-104 Protocol Server in Beaglebone Arm Linux](https://www.freyrscada.com/images/IEC104_Server_Beaglebone_Arm_Linux.jpg)](https://www.freyrscada.com/IEC104_Server_Beaglebone_Arm_Linux.html)
+
+## [IEC 60870-5-104 Protocol Server Redundancy](https://www.freyrscada.com/iec-104-redundancy.html)	
+[![IEC 60870-5-104 Protocol Server Redundancy](https://www.freyrscada.com/images/iec-104-redundancy.jpg)](https://www.freyrscada.com/iec-104-redundancy.html)
+
+
 
 
 [facebook](https://www.facebook.com/IEC104/)
