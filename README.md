@@ -480,6 +480,33 @@ gcc - Any IDE supports C & C++ Programming, support all your cross tool chain
 
 # [IEC 60870-5 part 104 Protocol Video Tutorial](https://www.youtube.com/playlist?list=PL4tVfIsUhy1bx7TVjtZnqFB6tbZBhOlJP)
 
+## [IEC 60870-5-104 Protocol Product Description Video](https://www.freyrscada.com/iec-60870-5-104-video.html)	
+[![IEC 60870-5-104 Protocol Product Description Video](https://www.freyrscada.com/images/iec104videoicon.jpg)](https://www.freyrscada.com/iec-60870-5-104-video.html)
+
+## [IEC 60870-5-104 Protocol Server Simulator test with third party tool](https://www.freyrscada.com/IEC104_Server_Simulator_Testing.html)	
+[![IEC 60870-5-104 Protocol Server Simulator test with third party tool](https://www.freyrscada.com/images/iec104-server-simulator-testing.jpg)](https://www.freyrscada.com/IEC104_Server_Simulator_Testing.html)
+
+## [IEC 60870-5-104 Protocol Client Master Simulator test with third party tool](https://www.freyrscada.com/IEC104_Client_Simulator_Testing.html)	
+[![IEC 60870-5-104 Protocol Client Master Simulator test with third party tool](https://www.freyrscada.com/images/iec104-client-simulator-testing.jpg)](https://www.freyrscada.com/IEC104_Client_Simulator_Testing.html)
+
+## [IEC 60870-5-104 Protocol Server and Client Simulator - File Transfer, Directory command operation](https://www.freyrscada.com/IEC-60870-5-104-Server-Client-File-Transfer-video.html)	
+[![IEC 60870-5-104 Protocol Server and Client Simulator - File Transfer, Directory command operation](https://www.freyrscada.com/images/iec104videoiconfiletransfer.jpg)](https://www.freyrscada.com/IEC-60870-5-104-Server-Client-File-Transfer-video.html)
+
+## [IEC 60870-5-104 Protocol Server Simulator with Kepware OPC](https://www.freyrscada.com/IEC104_Server_Simulator_Kepware_OPC.html)	
+[![IEC 60870-5-104 Protocol Server Simulator with Kepware OPC](https://www.freyrscada.com/images/IEC104_Server_Simulator_Kepware_OPC.jpg)](https://www.freyrscada.com/IEC104_Server_Simulator_Kepware_OPC.html)
+
+## [IEC 60870-5-104 Protocol File transfer - Control Direction](https://www.freyrscada.com/IEC104-Filetransfer-controldirection.html)	
+[![IEC 60870-5-104 Protocol File transfer - Control Direction](https://www.freyrscada.com/images/iec104-filetransfer-controldirection.jpg)](https://www.freyrscada.com/IEC104-Filetransfer-controldirection.html)
+
+## [IEC 60870-5-104 Protocol Server Simulator With Reliance HMI SCADA](https://www.freyrscada.com/IEC104_Server_Simulator_Reliance-HMI-SCADA.html)	
+[![IEC 60870-5-104 Protocol Server Simulator With Reliance HMI SCADA](https://www.freyrscada.com/images/IEC104_Server_Simulator_Reliance-HMI-SCADA.jpg)](https://www.freyrscada.com/IEC104_Server_Simulator_Reliance-HMI-SCADA.html)
+
+## [IEC 60870-5-104 Protocol Server in Beaglebone Arm Linux](https://www.freyrscada.com/IEC104_Server_Beaglebone_Arm_Linux.html)	
+[![IEC 60870-5-104 Protocol Server in Beaglebone Arm Linux](https://www.freyrscada.com/images/IEC104_Server_Beaglebone_Arm_Linux.jpg)](https://www.freyrscada.com/IEC104_Server_Beaglebone_Arm_Linux.html)
+
+## [IEC 60870-5-104 Protocol Server Redundancy](https://www.freyrscada.com/iec-104-redundancy.html)	
+[![IEC 60870-5-104 Protocol Server Redundancy](https://www.freyrscada.com/images/iec-104-redundancy.jpg)](https://www.freyrscada.com/iec-104-redundancy.html)
+
 
 
 [facebook](https://www.facebook.com/IEC104/)
