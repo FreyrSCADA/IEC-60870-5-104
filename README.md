@@ -20,7 +20,7 @@ The result of this work is IEC 60870-5. Five documents specify the base IEC 6087
 Make your RTU, protocol converter, Gateway, HMI, Data concentrator compatible with iec 104.
 
 * [IEC 60870-5-104 Source Code Windows C C++ C# .net Linux Arm POSIX C C++](#iec-60870-5-104-source-code-windows-c-c-c-net-linux-arm-posix-c-c)
-* [IEC 60870-5-104 Protocol RTU IED Server Simulator](#iec-60870-5-104-rtu-server-simulator)
+* [IEC 60870-5-104 Protocol RTU IED Server Simulator](#iec-60870-5-104-rtu-ied-server-simulator)
 * [IEC 60870-5 part 104 Protocol Client Master Simulator](#iec-60870-5-104-protocol-client-master-simulator)
 * [IEC 104 Windows C C++ C# .NET Programming](#iec-60870-5-part-104-windows-c-c-c-net-programming)
 * [IEC 60870-5 part 104 Protocol Linux Posix C C++ ARM](#iec-60870-5-104-protocol-linux-development-posix-c-c-arm)
