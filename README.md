@@ -1,10 +1,11 @@
-# [IEC 60870-5-104 Protocol](https://www.freyrscada.com/iec-60870-5-104.php)
+# [IEC 60870-5-101 Protocol](https://www.freyrscada.com/iec-60870-5-101.php)
 
-RTU Server Simulator, Master Client Simulator, Windows and Linux POSIX ARM, IEC104 Source Code in C, C++, C# .NET Programming
+RTU Server Simulator, Master Client Simulator, Windows and Linux POSIX ARM, IEC101 Source Code in C, C++, C# .NET Programming
 
-IEC 60870-5 part 104 enables communication between IED, RTU control station and substation via a standard TCP/IP network. 
-The TCP protocol is used for connection-oriented secure data transmission.
-IEC 60870 5104 protocol (IEC 104) is a part of IEC Telecontrol Equipment and Systems Standard IEC 60870-5 that provides a communication profile for sending basic telecontrol messages between two systems in electrical engineering and power system automation.
+Support both balanced and unbalanced mode.
+
+IEC 60870-5 part 101 enables communication between IED, RTU control station and substation via a standard Serial network. 
+IEC 60870 5 101 protocol (IEC 101) is a part of IEC Telecontrol Equipment and Systems Standard IEC 60870-5 that provides a communication profile for sending basic telecontrol messages between two systems in electrical engineering and power system automation.
 IEC 60870 part 5 is one of the IEC 60870 set of standards which define systems used for telecontrol (supervisory control and data acquisition SCADA) in electrical engineering and power system automation applications. 
 Part 5 provides a communication profile for sending basic telecontrol messages between two systems, which uses permanent directly connected data circuits between the systems. The IEC Technical Committee 57 (Working Group 03) have developed a protocol standard for telecontrol, teleprotection, and associated telecommunications for electric power systems. 
 The result of this work is IEC 60870-5. Five documents specify the base IEC 60870-5:
@@ -15,34 +16,34 @@ The result of this work is IEC 60870-5. Five documents specify the base IEC 6087
 - IEC 60870-5-4 Definition and Coding of Information Elements
 - IEC 60870-5-5 Basic Application Functions
 
-[![IEC 60870-5-104 Protocol](./img/iec-60870-5-104-protocol.jpg)](https://www.freyrscada.com/iec-60870-5-104.php)
+[![IEC 60870-5-101 Protocol](https://www.freyrscada.com/images/101w320x220.jpg)](https://www.freyrscada.com/iec-60870-5-101.php)
 
-Make your RTU, protocol converter, Gateway, HMI, Data concentrator compatible with iec 104.
+Make your RTU, protocol converter, Gateway, HMI, Data concentrator compatible with iec 101.
 
-* [IEC 60870-5-104 Source Code Windows C C++ C# .net Linux Arm POSIX C C++](#iec-60870-5-104-source-code-windows-c-c-c-net-linux-arm-posix-c-c)
-* [IEC 60870-5-104 Protocol RTU IED Server Simulator](#iec-60870-5-104-rtu-server-simulator)
-* [IEC 60870-5 part 104 Protocol Client Master Simulator](#iec-60870-5-104-protocol-client-master-simulator)
-* [IEC 104 Windows C C++ C# .NET Programming](#iec-60870-5-part-104-windows-c-c-c-net-programming)
-* [IEC 60870-5 part 104 Protocol Linux Posix C C++ ARM](#iec-60870-5-104-protocol-linux-development-posix-c-c-arm)
-* [IEC 60870-5 104 Protocol Video](#iec-60870-5-part-104-protocol-video-tutorial)
-
-
-## [Download Evaluation Kit - IEC 104 Development Bundle](https://www.freyrscada.com/iec-60870-5-104.php#Download-IEC60870-5-104-Development-Bundle)
-
-In the Development Bundle, We included IEC 104 Protocol Server  Client Simulator, Windows and Linux SDK, C# projects, Doxygen documentation and Raspberry Pi, BeagleBone Demo library.
+* [IEC 60870-5-101 Source Code Windows C C++ C# .net Linux Arm POSIX C C++](#iec-60870-5-101-source-code-windows-c-c-c-net-linux-arm-posix-c-c)
+* [IEC 60870-5-101 Protocol RTU IED Server Simulator](#iec-60870-5-101-rtu-server-simulator)
+* [IEC 60870-5 part 101 Protocol Client Master Simulator](#iec-60870-5-101-protocol-client-master-simulator)
+* [IEC 101 Windows C C++ C# .NET Programming](#iec-60870-5-part-101-windows-c-c-c-net-programming)
+* [IEC 60870-5 part 101 Protocol Linux Posix C C++ ARM](#iec-60870-5-101-protocol-linux-development-posix-c-c-arm)
+* [IEC 60870-5 101 Protocol Video](#iec-60870-5-part-101-protocol-video-tutorial)
 
 
-# [IEC 60870-5-104 Source Code Windows C C++ C# .net Linux Arm POSIX C C++](https://www.freyrscada.com/iec-60870-5-104-Source-Code-Library.html)
+## [Download Evaluation Kit - IEC 101 Development Bundle](https://www.freyrscada.com/iec-60870-5-101.php#Download-IEC60870-5-101-Development-Bundle)
+
+In the Development Bundle, We included IEC 101 Protocol Server  Client Simulator, Windows and Linux SDK, C# projects, Doxygen documentation and Raspberry Pi, BeagleBone Demo library.
 
 
-The most complete implementation of IEC 104 protocol stack including File transfer (Monitor and Control Direction), Directory Commnads, Supports all type of Monitoring, command , parameter ASDUs.
+# [IEC 60870-5-101 Source Code Windows C C++ C# .net Linux Arm POSIX C C++](https://www.freyrscada.com/iec-60870-5-101-Source-Code-Library.html)
+
+
+The most complete implementation of IEC 101 protocol stack including File transfer (Monitor and Control Direction), Directory Commnads, Supports all type of Monitoring, command , parameter ASDUs.
 
 Low memory footprint, easy start on any hardware platform, can operate with or without an operating system, delivered as a source code,
 
 high configurability allows to use required features only, royalty-free licensing.
 
 
-[![IEC 60870-5-104 Code Windows C C++ C# .net Linux Arm POSIX](./img/IEC-60870-5-104-source-code-library-stack.jpg)](https://www.freyrscada.com/iec-60870-5-104-Source-Code-Library.html)
+[![IEC 60870-5-101 Code Windows C C++ C# .net Linux Arm POSIX](https://www.freyrscada.com/images/IEC-60870-5-101-source-code-library-stack.jpg)](https://www.freyrscada.com/iec-60870-5-101-Source-Code-Library.html)
 
 
 ## Salient Features
@@ -61,6 +62,8 @@ high configurability allows to use required features only, royalty-free licensin
  - Our all protocol stack supports "POSIX compliant operating system"
 
  - Context-based event-driven model
+ 
+ - Support both balanced and unbalanced mode
 
  - Multiple Server and Client Simulation
 
@@ -72,8 +75,6 @@ high configurability allows to use required features only, royalty-free licensin
 
  - Supports "Select-Before-Operate" and "Direct-Execute" command execution modes
 
- - In IEC 60870-5-104 Client Side, Data Mode and Test mode connection type available.
-
  - Source Code Library allows a fast and cost efficient implementation
 
  - APIs are designed to be very easy to use and flexible
@@ -83,7 +84,7 @@ high configurability allows to use required features only, royalty-free licensin
 
  - Integrate existing devices to a modern control system with a field proven product
 
- - Use the IEC-104 event based communication instead of polling
+ - Use the IEC-101 event based communication instead of polling
 
  - Feeder automation
 
@@ -96,7 +97,7 @@ high configurability allows to use required features only, royalty-free licensin
  - Protection relays
  
   
-## Standard IEC 60870-5-104 ASDU - Typeids
+## Standard IEC 60870-5-101 ASDU - Typeids
 
 
 Type            Dec             Description
@@ -214,7 +215,7 @@ C_RD_NA_1         102       Read command
 
 C_CS_NA_1         103       Clock synchronization command
 
-C_TS_NA_1         104       Test command
+C_TS_NA_1         101       Test command
 
 C_RP_NA_1         105       Reset process command
 
@@ -254,16 +255,16 @@ ASDU_TYPE_127..255  127..255  Reserved (user area)
 
 ## Knowledge Base - Interoperability
 
-[IEC 60870-5-104 Protocol Server Interoperability](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Server-Interoperability.pdf)
+[IEC 60870-5-101 Protocol Server Interoperability](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-101-Server-Interoperability.pdf)
 
-[IEC 60870-5-104 protocol Client Interoperability](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Client-Interoperability.pdf)
+[IEC 60870-5-101 protocol Client Interoperability](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-101-Client-Interoperability.pdf)
 
  
 
 ## Licensing
 
 
-### [Source Code License model:](https://www.freyrscada.com/iec-60870-5-104-Source-Code-Library.html)
+### [Source Code License model:](https://www.freyrscada.com/iec-60870-5-101-Source-Code-Library.html)
 
 In this License model, We deliver complete source code of the protocol implementation according to the customer specified operating system(Windows, Linux, QNX...).
 
@@ -294,12 +295,12 @@ For Unlimited year license, after a year, you will have the option to renew the 
 
 
 
-# [IEC 60870-5-104 RTU IED Server Simulator](https://www.freyrscada.com/iec-60870-5-104-Server-Simulator.php)
+# [IEC 60870-5-101 RTU IED Server Simulator](https://www.freyrscada.com/iec-60870-5-101-Server-Simulator.php)
 
 
-Complete Simulation of IEC 104 Server as per Protocol Standard including File transfer (Both Monitoring and control direction).
+Complete Simulation of IEC 101 Server as per Protocol Standard including File transfer (Both Monitoring and control direction).
 
-[![IEC 60870-5-104 Protocol RTU IED Server Simulator](./img/iec104-server-sim.jpg)](https://www.freyrscada.com/iec-60870-5-104-Server-Simulator.php)
+[![IEC 60870-5-101 Protocol RTU IED Server Simulator](https://www.freyrscada.com/images/iec101serversimlogo_thump.jpg)](https://www.freyrscada.com/iec-60870-5-101-Server-Simulator.php)
 
 
 ​Support all type of ASDU Typeid according to protocol specification
@@ -318,11 +319,11 @@ Complete Simulation of IEC 104 Server as per Protocol Standard including File tr
 
 
 
-IEC 104 Server Simulator developed to test the functionalities of IEC 60870-5-104 stack Source code Library - server Operation.
+IEC 101 Server Simulator developed to test the functionalities of IEC 60870-5-101 stack Source code Library - server Operation.
 
 We can add up to 50 server node in the simulator. Every server node will work independently.
 
-Simulator window shows the status & connection ip address, port number, redundancy enabled or not, If Redundancy enabled it shows, the redundant source ip address, port .
+Simulator window shows the status & connection port number, redundancy enabled or not, If Redundancy enabled it shows, the redundant source ip address, port .
 
 The user can update the monitoring Point information. The following parameters can change Value and quality bits.
 
@@ -331,6 +332,8 @@ The user can update the monitoring Point information. The following parameters c
 
 
  - Multiple Server Simulation
+ 
+ - Support both balanced and unbalanced mode
 
  - In a Single Server(link) simulate Multiple Stations (Common Address)
 
@@ -353,16 +356,16 @@ The user can update the monitoring Point information. The following parameters c
  - Spontaneous transmission (e. g. single indications with time tag ...)
 
 
-## [IEC 60870-5-104 Protocol RTU Server Simulator User Manual](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Server-Simulator-User-Manual.pdf)
+## [IEC 60870-5-101 Protocol RTU Server Simulator User Manual](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-101-Server-Simulator-User-Manual.pdf)
 
 
 
-# [IEC 60870-5-104 Protocol Client Master Simulator](https://www.freyrscada.com/iec-60870-5-104-Client-Simulator.php)
+# [IEC 60870-5-101 Protocol Client Master Simulator](https://www.freyrscada.com/iec-60870-5-101-Client-Simulator.php)
 
 
-Complete Simulation of IEC 104 Client as per Protocol Standard including File transfer (Both Monitoring and control direction).
+Complete Simulation of IEC 101 Client as per Protocol Standard including File transfer (Both Monitoring and control direction).
 
-[![IEC 60870-5 part 104 Protocol Client Master Simulator](./img/iec104-client-sim.jpg)](https://www.freyrscada.com/iec-60870-5-104-Client-Simulator.php)
+[![IEC 60870-5 part 101 Protocol Client Master Simulator](https://www.freyrscada.com/images/iec101clientsimlogo_thump.jpg)](https://www.freyrscada.com/iec-60870-5-101-Client-Simulator.php)
 
 
 ​Support all type of ASDU Typeid according to protocol specification
@@ -380,16 +383,18 @@ Complete Simulation of IEC 104 Client as per Protocol Standard including File tr
 6) File transfer ( Both Monitor And Control Direction) F_FR, F_SR, F_SC
 
 
-IEC 104 Client Simulator was originally developed to test the functionalities of IEC 60870-5-104 stack Client operation.
+IEC 101 Client Simulator was originally developed to test the functionalities of IEC 60870-5-101 stack Client operation.
 
 We can add up to 50 Client node in the simulator. Every Client node will work independently.
 
-Simulator window shows the Connection status, connection ip address and port number.
+Simulator window shows the Connection status, connection port number.
 
 
 ## Features
 
  - Multiple Master / Client Simulation
+ 
+ - Support both balanced and unbalanced mode
 
  - In a Single Client(link) simulate Multiple Stations (Common Address)
 
@@ -404,63 +409,63 @@ Simulator window shows the Connection status, connection ip address and port num
  - Parameter command
 
 
-## [IEC 60870-5-104 Protocol Client Master Simulator User Manual](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Client-Simulator-User-Manual.pdf)
+## [IEC 60870-5-101 Protocol Client Master Simulator User Manual](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-101-Client-Simulator-User-Manual.pdf)
 
 
 
-# [IEC 60870-5 part 104 Windows C C++ C# .NET Programming](https://www.freyrscada.com/iec-60870-5-104-Windows-Software-Development-Kit(SDK).php)
+# [IEC 60870-5 part 101 Windows C C++ C# .NET Programming](https://www.freyrscada.com/iec-60870-5-101-Windows-Software-Development-Kit(SDK).php)
 
 
-IEC 60870-5-104 Demo Win DLL includes simple (Server & Client C programs, c# .net )example using a Command window and command line inputs.
+IEC 60870-5-101 Demo Win DLL includes simple (Server & Client C programs, c# .net )example using a Command window and command line inputs.
 
-The source code will allow you to quickly compile your own examples with the features of your existing development environment to work with our IEC 60870-5-104 DLL..IEC 104 Windows SDK contains Win DLL (precompiled library), Static link lib, Demo IEC104 Server & Client programs, Visual Studio Demo console project files, Doxygen .
+The source code will allow you to quickly compile your own examples with the features of your existing development environment to work with our IEC 60870-5-101 DLL..IEC 101 Windows SDK contains Win DLL (precompiled library), Static link lib, Demo IEC101 Server & Client programs, Visual Studio Demo console project files, Doxygen .
 
 We used Visual studio compiler to create the dll, sample test projects.
 
 
-[![IEC 60870-5-104 Windows C C++ C# .NET](./img/iec-104-windows-protocol.jpg)](https://www.freyrscada.com/iec-60870-5-104-Windows-Software-Development-Kit(SDK).php)
+[![IEC 60870-5-101 Windows C C++ C# .NET](https://www.freyrscada.com/images/101w320x220_win_sdk.jpg)](https://www.freyrscada.com/iec-60870-5-101-Windows-Software-Development-Kit(SDK).php)
 
 
 This evaluation package allows you to:
 
 Access product manual(API documentation)(pdf, Doxygen html)
 
-Browse the IEC 60870-5-104 library API documentation
+Browse the IEC 60870-5-101 library API documentation
 
-Study the source code of the IEC 60870-5-104 examples provided
+Study the source code of the IEC 60870-5-101 examples provided
 
-Modify and compile the IEC 60870-5-104 examples
+Modify and compile the IEC 60870-5-101 examples
 
-Create your own IEC 60870-5-104 programs and test with leading test tools
+Create your own IEC 60870-5-101 programs and test with leading test tools
 
 You can use the source code of the application examples and modify them according to your needs.
 
 
-# [IEC 60870-5-104 Protocol Linux Development POSIX C C++ ARM](https://www.freyrscada.com/iec-60870-5-104-Linux-Software-Development-Kit(SDK).php)
+# [IEC 60870-5-101 Protocol Linux Development POSIX C C++ ARM](https://www.freyrscada.com/iec-60870-5-101-Linux-Software-Development-Kit(SDK).php)
 
 
-IEC 104 Demo Linux Shared Library includes simple (Server & Client C programs )example using a Command window and command line inputs.
+IEC 101 Demo Linux Shared Library includes simple (Server & Client C programs )example using a Command window and command line inputs.
 
-The source code will allow you to quickly compile your own examples with the features of your existing development environment to work with our IEC 60870-5-104 library.
+The source code will allow you to quickly compile your own examples with the features of your existing development environment to work with our IEC 60870-5-101 library.
 
-IEC 60870-5-104 Linux SDK contains Shared Library(.a) (precompiled library), Static link lib, Demo IEC104 Server & Client programs, CodeBlock Demo console project files, Doxygen .
+IEC 60870-5-101 Linux SDK contains Shared Library(.a) (precompiled library), Static link lib, Demo IEC101 Server & Client programs, CodeBlock Demo console project files, Doxygen .
 
 We used gcc compiler to create the Shared Library, sample test projects.
 
-[![IEC 60870-5-104 Protocol Linux C C++ POSIX](./img/iec-104-linux-protocol.jpg)](https://www.freyrscada.com/iec-60870-5-104-Linux-Software-Development-Kit(SDK).php)
+[![IEC 60870-5-101 Protocol Linux C C++ POSIX](https://www.freyrscada.com/images/101w320x220_linux_sdk.jpg)](https://www.freyrscada.com/iec-60870-5-101-Linux-Software-Development-Kit(SDK).php)
 
 
 This evaluation package allows you to:
 
  - Access product manual(API documentation)(pdf, Doxygen html)
 
- - Browse the IEC 60870-5-104 library API documentation
+ - Browse the IEC 60870-5-101 library API documentation
 
- - Study the source code of the IEC 60870-5-104 examples provided
+ - Study the source code of the IEC 60870-5-101 examples provided
 
- - Modify and compile the IEC 60870-5-104 examples
+ - Modify and compile the IEC 60870-5-101 examples
 
- - Create your own IEC 60870-5-104 programs and test with leading test tools
+ - Create your own IEC 60870-5-101 programs and test with leading test tools
 
  - You can use the source code of the application examples and modify them according to your needs.
 
@@ -474,44 +479,36 @@ gcc - Any IDE supports C & C++ Programming, support all your cross tool chain
 
 
 
-# [IEC 60870-5 part 104 Protocol Video Tutorial](https://www.youtube.com/playlist?list=PL4tVfIsUhy1bx7TVjtZnqFB6tbZBhOlJP)
+# [IEC 60870-5 part 101 Protocol Video Tutorial](https://www.youtube.com/playlist?list=PL4tVfIsUhy1bx7TVjtZnqFB6tbZBhOlJP)
 
-## [IEC 60870-5-104 Protocol Product Description Video](https://www.freyrscada.com/iec-60870-5-104-video.html)	
-[![IEC 60870-5-104 Protocol Product Description Video](https://www.freyrscada.com/images/iec104videoicon.jpg)](https://www.freyrscada.com/iec-60870-5-104-video.html)
+## [IEC 60870-5-101 Protocol Product Description Video](https://www.freyrscada.com/iec-60870-5-101-video.html)	
+[![IEC 60870-5-101 Protocol Product Description Video](https://www.freyrscada.com/images/iec101videoicon.jpg)](https://www.freyrscada.com/iec-60870-5-101-video.html)
 
-## [IEC 60870-5-104 Protocol Server Simulator test with third party tool](https://www.freyrscada.com/IEC104_Server_Simulator_Testing.html)	
-[![IEC 60870-5-104 Protocol Server Simulator test with third party tool](https://www.freyrscada.com/images/iec104-server-simulator-testing.jpg)](https://www.freyrscada.com/IEC104_Server_Simulator_Testing.html)
+## [IEC 60870-5-101 Protocol Server Simulator test with third party tool](https://www.freyrscada.com/IEC101_Server_Simulator_Testing.html)	
+[![IEC 60870-5-101 Protocol Server Simulator test with third party tool](https://www.freyrscada.com/images/iec101-server-simulator-testing.jpg)](https://www.freyrscada.com/IEC101_Server_Simulator_Testing.html)
 
-## [IEC 60870-5-104 Protocol Client Master Simulator test with third party tool](https://www.freyrscada.com/IEC104_Client_Simulator_Testing.html)	
-[![IEC 60870-5-104 Protocol Client Master Simulator test with third party tool](https://www.freyrscada.com/images/iec104-client-simulator-testing.jpg)](https://www.freyrscada.com/IEC104_Client_Simulator_Testing.html)
+## [IEC 60870-5-101 Protocol Client Master Simulator test with third party tool](https://www.freyrscada.com/IEC101_Client_Simulator_Testing.html)	
+[![IEC 60870-5-101 Protocol Client Master Simulator test with third party tool](https://www.freyrscada.com/images/iec101-client-simulator-testing.jpg)](https://www.freyrscada.com/IEC101_Client_Simulator_Testing.html)
 
-## [IEC 60870-5-104 Protocol Server and Client Simulator - File Transfer, Directory command operation](https://www.freyrscada.com/IEC-60870-5-104-Server-Client-File-Transfer-video.html)	
-[![IEC 60870-5-104 Protocol Server and Client Simulator - File Transfer, Directory command operation](https://www.freyrscada.com/images/iec104videoiconfiletransfer.jpg)](https://www.freyrscada.com/IEC-60870-5-104-Server-Client-File-Transfer-video.html)
+## [IEC 60870-5-101 Protocol Server and Client Simulator - File Transfer, Directory command operation](https://www.freyrscada.com/IEC-60870-5-101-Server-Client-File-Transfer-video.html)	
+[![IEC 60870-5-101 Protocol Server and Client Simulator - File Transfer, Directory command operation](https://www.freyrscada.com/images/iec101videoiconfiletransfer.jpg)](https://www.freyrscada.com/IEC-60870-5-101-Server-Client-File-Transfer-video.html)
 
-## [IEC 60870-5-104 Protocol Server Simulator with Kepware OPC](https://www.freyrscada.com/IEC104_Server_Simulator_Kepware_OPC.html)	
-[![IEC 60870-5-104 Protocol Server Simulator with Kepware OPC](https://www.freyrscada.com/images/IEC104_Server_Simulator_Kepware_OPC.jpg)](https://www.freyrscada.com/IEC104_Server_Simulator_Kepware_OPC.html)
+## [IEC 60870-5-101 Protocol Server Simulator with Kepware OPC](https://www.freyrscada.com/IEC101_Server_Simulator_Kepware_OPC.html)	
+[![IEC 60870-5-101 Protocol Server Simulator with Kepware OPC](https://www.freyrscada.com/images/IEC101_Server_Simulator_Kepware_OPC.jpg)](https://www.freyrscada.com/IEC101_Server_Simulator_Kepware_OPC.html)
 
-## [IEC 60870-5-104 Protocol File transfer - Control Direction](https://www.freyrscada.com/IEC104-Filetransfer-controldirection.html)	
-[![IEC 60870-5-104 Protocol File transfer - Control Direction](https://www.freyrscada.com/images/iec104-filetransfer-controldirection.jpg)](https://www.freyrscada.com/IEC104-Filetransfer-controldirection.html)
-
-## [IEC 60870-5-104 Protocol Server Simulator With Reliance HMI SCADA](https://www.freyrscada.com/IEC104_Server_Simulator_Reliance-HMI-SCADA.html)	
-[![IEC 60870-5-104 Protocol Server Simulator With Reliance HMI SCADA](https://www.freyrscada.com/images/IEC104_Server_Simulator_Reliance-HMI-SCADA.jpg)](https://www.freyrscada.com/IEC104_Server_Simulator_Reliance-HMI-SCADA.html)
-
-## [IEC 60870-5-104 Protocol Server in Beaglebone Arm Linux](https://www.freyrscada.com/IEC104_Server_Beaglebone_Arm_Linux.html)	
-[![IEC 60870-5-104 Protocol Server in Beaglebone Arm Linux](https://www.freyrscada.com/images/IEC104_Server_Beaglebone_Arm_Linux.jpg)](https://www.freyrscada.com/IEC104_Server_Beaglebone_Arm_Linux.html)
-
-## [IEC 60870-5-104 Protocol Server Redundancy](https://www.freyrscada.com/iec-104-redundancy.html)	
-[![IEC 60870-5-104 Protocol Server Redundancy](https://www.freyrscada.com/images/iec-104-redundancy.jpg)](https://www.freyrscada.com/iec-104-redundancy.html)
+## [IEC 60870-5-101 Protocol Server in Beaglebone Arm Linux](https://www.freyrscada.com/IEC101_Server_Beaglebone_Arm_Linux.html)	
+[![IEC 60870-5-101 Protocol Server in Beaglebone Arm Linux](https://www.freyrscada.com/images/IEC101_Server_Beaglebone_Arm_Linux.jpg)](https://www.freyrscada.com/IEC101_Server_Beaglebone_Arm_Linux.html)
 
 
 
-[facebook](https://www.facebook.com/IEC104/)
 
-[linkedin](https://in.linkedin.com/showcase/iec-60870-5-104)  
+[facebook](https://www.facebook.com/IEC101/)
 
-[youtube](https://www.youtube.com/playlist?list=PL4tVfIsUhy1bx7TVjtZnqFB6tbZBhOlJP)
+[linkedin](https://in.linkedin.com/showcase/iec-60870-5-101)  
+
+[youtube](https://www.youtube.com/playlist?list=PL4tVfIsUhy1bsVPrJVW4nknHozdfcWE5u)
 
 
-# [Download Evaluation Kit - IEC 104 Protocol Development Bundle](https://www.freyrscada.com/iec-60870-5-104.php#Download-IEC60870-5-104-Development-Bundle)
+# [Download Evaluation Kit - IEC 101 Protocol Development Bundle](https://www.freyrscada.com/iec-60870-5-101.php#Download-IEC60870-5-101-Development-Bundle)
 
-In the Development Bundle, We included IEC 60870-5 part 104 Protocol Server  Client Simulator, Windows and Linux SDK, C# projects, Doxygen documentation and Raspberry Pi, BeagleBone Demo library.
+In the Development Bundle, We included IEC 60870-5 part 101 Protocol Server  Client Simulator, Windows and Linux SDK, C# projects, Doxygen documentation and Raspberry Pi, BeagleBone Demo library.
