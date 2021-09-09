@@ -21,7 +21,7 @@ The result of this work is IEC 60870-5. Five documents specify the base IEC 6087
 Make your RTU, protocol converter, Gateway, HMI, Data concentrator compatible with iec 101.
 
 * [IEC 60870-5-101 Source Code Windows C C++ C# .net Linux Arm POSIX C C++](#iec-60870-5-101-source-code-windows-c-c-c-net-linux-arm-posix-c-c)
-* [IEC 60870-5-101 Protocol RTU IED Server Simulator](#iec-60870-5-101-rtu-server-simulator)
+* [IEC 60870-5-101 Protocol RTU IED Server Simulator](#iec-60870-5-101-rtu-ied-server-simulator)
 * [IEC 60870-5 part 101 Protocol Client Master Simulator](#iec-60870-5-101-protocol-client-master-simulator)
 * [IEC 101 Windows C C++ C# .NET Programming](#iec-60870-5-part-101-windows-c-c-c-net-programming)
 * [IEC 60870-5 part 101 Protocol Linux Posix C C++ ARM](#iec-60870-5-101-protocol-linux-development-posix-c-c-arm)
@@ -491,7 +491,7 @@ gcc - Any IDE supports C & C++ Programming, support all your cross tool chain
 [![IEC 60870-5-101 Protocol Client Master Simulator test with third party tool](https://www.freyrscada.com/images/iec101-client-simulator-testing.jpg)](https://www.freyrscada.com/IEC101_Client_Simulator_Testing.html)
 
 ## [IEC 60870-5-101 Protocol Server and Client Simulator - File Transfer, Directory command operation](https://www.freyrscada.com/IEC-60870-5-101-Server-Client-File-Transfer-video.html)	
-[![IEC 60870-5-101 Protocol Server and Client Simulator - File Transfer, Directory command operation](https://www.freyrscada.com/images/iec101videoiconfiletransfer.jpg)](https://www.freyrscada.com/IEC-60870-5-101-Server-Client-File-Transfer-video.html)
+[![IEC 60870-5-101 Protocol Server and Client Simulator - File Transfer, Directory command operation](https://www.freyrscada.com/images/iec101-simulator-filetransfer.jpg)](https://www.freyrscada.com/IEC-60870-5-101-Server-Client-File-Transfer-video.html)
 
 ## [IEC 60870-5-101 Protocol Server Simulator with Kepware OPC](https://www.freyrscada.com/IEC101_Server_Simulator_Kepware_OPC.html)	
 [![IEC 60870-5-101 Protocol Server Simulator with Kepware OPC](https://www.freyrscada.com/images/IEC101_Server_Simulator_Kepware_OPC.jpg)](https://www.freyrscada.com/IEC101_Server_Simulator_Kepware_OPC.html)
