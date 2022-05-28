@@ -296,7 +296,18 @@ ASDU_TYPE_127..255  127..255  Reserved (user area)
 ## [IEC 60870-5-104 Protocol Server Redundancy](https://www.freyrscada.com/iec-104-redundancy.html)	
 [![IEC 60870-5-104 Protocol Server Redundancy](https://www.freyrscada.com/images/iec-104-redundancy.jpg)](https://www.freyrscada.com/iec-104-redundancy.html)
  
- 
+## [IEC 60870-5-104 Protocol Server Simulator With VTScada HMI SCADA](http://www.freyrscada.com/IEC104-Server-Simulator-With-VTScada.html)	
+[![IEC 60870-5-104 Protocol Server Simulator With VTScada HMI SCADA](http://www.freyrscada.com/images/IEC104-Server-Simulator-With-VTScada.jpg)](http://www.freyrscada.com/IEC104-Server-Simulator-With-VTScada.html)
+
+## [IEC 60870-5-104 Protocol Server Simulator With Matrikon OPC](http://www.freyrscada.com/IEC104-Server-Simulator-With-Matrikon-OPC.html)	
+[![IEC 60870-5-104 Protocol Server Simulator With Matrikon OPC](http://www.freyrscada.com/images/iec104-matrikon-opcwithsub.JPG)](http://www.freyrscada.com/IEC104-Server-Simulator-With-Matrikon-OPC.html)
+
+## [ClearSCADA IEC 60870-5-104 Protocol IED Server Simulator testing](http://www.freyrscada.com/clearscada-iec104-point-command-simulation.html)	
+[![ClearSCADA IEC 60870-5-104 Protocol IED Server Simulator testing](http://www.freyrscada.com/images/clearscadaiec104.jpg)](http://www.freyrscada.com/clearscada-iec104-point-command-simulation.html)
+
+## [ClearSCADA IEC 60870-5-104 Protocol Server Simulator download upload file transfer directory view](http://www.freyrscada.com/clearscada-iec104-file-transfer.html)	
+[![ClearSCADA IEC 60870-5-104 Protocol Server Simulator download upload file transfer directory view](http://www.freyrscada.com/images/clearscada-iec104-filetransfer.jpg)](http://www.freyrscada.com/clearscada-iec104-file-transfer.html)
+
  
 
 [facebook](https://www.facebook.com/IEC104/)
