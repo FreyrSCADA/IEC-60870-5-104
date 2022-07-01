@@ -1,5 +1,5 @@
 
-# [IEC 60870-5-104 Protocol Client Master Simulator](https://www.freyrscada.com/iec-60870-5-104-Client-Simulator.php)
+# [IEC 60870-5-104 Protocol Client Master Simulator](http://www.freyrscada.com/iec-60870-5-104-Client-Simulator.php)
 
 IEC 60870-5-104 enables communication between IED, RTU control station and substation via a standard TCP/IP network. 
 The TCP protocol is used for connection-oriented secure data transmission.
@@ -17,14 +17,14 @@ The result of this work is IEC 60870-5. Five documents specify the base IEC 6087
 Make your RTU, protocol converter, Gateway, HMI, Data concentrator compatible with iec 104.
 
 
-# [Download Evaluation Kit - IEC 104 Development Bundle](https://www.freyrscada.com/iec-60870-5-104.php#Download-IEC60870-5-104-Development-Bundle)
+# [Download Evaluation Kit - IEC 104 Development Bundle](http://www.freyrscada.com/iec-60870-5-104.php#Download-IEC60870-5-104-Development-Bundle)
 
 In the Development Bundle, We included IEC 104 Protocol Server  Client Simulator, Windows and Linux SDK, C# projects, Doxygen documentation and Raspberry Pi, BeagleBone Demo library.
 
 
 Complete Simulation of IEC 104 Client as per Protocol Standard including File transfer (Both Monitoring and control direction).
 
-[![IEC 60870-5 part 104 Protocol Client Master Simulator](https://github.com/FreyrSCADA/IEC-60870-5-104/raw/master/img/iec104-client-sim.jpg)](https://www.freyrscada.com/iec-60870-5-104-Client-Simulator.php)
+[![IEC 60870-5 part 104 Protocol Client Master Simulator](https://github.com/FreyrSCADA/IEC-60870-5-104/raw/master/img/iec104-client-sim.jpg)](http://www.freyrscada.com/iec-60870-5-104-Client-Simulator.php)
 
 
 ​Support all type of ASDU Typeid according to protocol specification
@@ -74,10 +74,10 @@ Simulator window shows the Connection status, connection ip address and port num
 ## Knowledge Base 
 
 
-[IEC 60870-5-104 protocol Client Interoperability](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Client-Interoperability.pdf)
+[IEC 60870-5-104 protocol Client Interoperability](http://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Client-Interoperability.pdf)
  
 
-[IEC 60870-5-104 Protocol Client Master Simulator User Manual](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Client-Simulator-User-Manual.pdf)
+[IEC 60870-5-104 Protocol Client Master Simulator User Manual](http://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-104-Client-Simulator-User-Manual.pdf)
 
 
 ## Simulator License model:
@@ -269,32 +269,32 @@ ASDU_TYPE_127..255  127..255  Reserved (user area)
  
 # [IEC 60870-5 part 104 Protocol Video Tutorial](https://www.youtube.com/playlist?list=PL4tVfIsUhy1bx7TVjtZnqFB6tbZBhOlJP)
 
-## [IEC 60870-5-104 Protocol Product Description Video](https://www.freyrscada.com/iec-60870-5-104-video.html)	
-[![IEC 60870-5-104 Protocol Product Description Video](https://www.freyrscada.com/images/iec104videoicon.jpg)](https://www.freyrscada.com/iec-60870-5-104-video.html)
+## [IEC 60870-5-104 Protocol Product Description Video](http://www.freyrscada.com/iec-60870-5-104-video.html)	
+[![IEC 60870-5-104 Protocol Product Description Video](http://www.freyrscada.com/images/iec104videoicon.jpg)](http://www.freyrscada.com/iec-60870-5-104-video.html)
 
-## [IEC 60870-5-104 Protocol Server Simulator test with third party tool](https://www.freyrscada.com/IEC104_Server_Simulator_Testing.html)	
-[![IEC 60870-5-104 Protocol Server Simulator test with third party tool](https://www.freyrscada.com/images/iec104-server-simulator-testing.jpg)](https://www.freyrscada.com/IEC104_Server_Simulator_Testing.html)
+## [IEC 60870-5-104 Protocol Server Simulator test with third party tool](http://www.freyrscada.com/IEC104_Server_Simulator_Testing.html)	
+[![IEC 60870-5-104 Protocol Server Simulator test with third party tool](http://www.freyrscada.com/images/iec104-server-simulator-testing.jpg)](http://www.freyrscada.com/IEC104_Server_Simulator_Testing.html)
 
-## [IEC 60870-5-104 Protocol Client Master Simulator test with third party tool](https://www.freyrscada.com/IEC104_Client_Simulator_Testing.html)	
-[![IEC 60870-5-104 Protocol Client Master Simulator test with third party tool](https://www.freyrscada.com/images/iec104-client-simulator-testing.jpg)](https://www.freyrscada.com/IEC104_Client_Simulator_Testing.html)
+## [IEC 60870-5-104 Protocol Client Master Simulator test with third party tool](http://www.freyrscada.com/IEC104_Client_Simulator_Testing.html)	
+[![IEC 60870-5-104 Protocol Client Master Simulator test with third party tool](http://www.freyrscada.com/images/iec104-client-simulator-testing.jpg)](http://www.freyrscada.com/IEC104_Client_Simulator_Testing.html)
 
-## [IEC 60870-5-104 Protocol Server and Client Simulator - File Transfer, Directory command operation](https://www.freyrscada.com/IEC-60870-5-104-Server-Client-File-Transfer-video.html)	
-[![IEC 60870-5-104 Protocol Server and Client Simulator - File Transfer, Directory command operation](https://www.freyrscada.com/images/iec104videoiconfiletransfer.jpg)](https://www.freyrscada.com/IEC-60870-5-104-Server-Client-File-Transfer-video.html)
+## [IEC 60870-5-104 Protocol Server and Client Simulator - File Transfer, Directory command operation](http://www.freyrscada.com/IEC-60870-5-104-Server-Client-File-Transfer-video.html)	
+[![IEC 60870-5-104 Protocol Server and Client Simulator - File Transfer, Directory command operation](http://www.freyrscada.com/images/iec104videoiconfiletransfer.jpg)](http://www.freyrscada.com/IEC-60870-5-104-Server-Client-File-Transfer-video.html)
 
-## [IEC 60870-5-104 Protocol Server Simulator with Kepware OPC](https://www.freyrscada.com/IEC104_Server_Simulator_Kepware_OPC.html)	
-[![IEC 60870-5-104 Protocol Server Simulator with Kepware OPC](https://www.freyrscada.com/images/IEC104_Server_Simulator_Kepware_OPC.jpg)](https://www.freyrscada.com/IEC104_Server_Simulator_Kepware_OPC.html)
+## [IEC 60870-5-104 Protocol Server Simulator with Kepware OPC](http://www.freyrscada.com/IEC104_Server_Simulator_Kepware_OPC.html)	
+[![IEC 60870-5-104 Protocol Server Simulator with Kepware OPC](http://www.freyrscada.com/images/IEC104_Server_Simulator_Kepware_OPC.jpg)](http://www.freyrscada.com/IEC104_Server_Simulator_Kepware_OPC.html)
 
-## [IEC 60870-5-104 Protocol File transfer - Control Direction](https://www.freyrscada.com/IEC104-Filetransfer-controldirection.html)	
-[![IEC 60870-5-104 Protocol File transfer - Control Direction](https://www.freyrscada.com/images/iec104-filetransfer-controldirection.jpg)](https://www.freyrscada.com/IEC104-Filetransfer-controldirection.html)
+## [IEC 60870-5-104 Protocol File transfer - Control Direction](http://www.freyrscada.com/IEC104-Filetransfer-controldirection.html)	
+[![IEC 60870-5-104 Protocol File transfer - Control Direction](http://www.freyrscada.com/images/iec104-filetransfer-controldirection.jpg)](http://www.freyrscada.com/IEC104-Filetransfer-controldirection.html)
 
-## [IEC 60870-5-104 Protocol Server Simulator With Reliance HMI SCADA](https://www.freyrscada.com/IEC104_Server_Simulator_Reliance-HMI-SCADA.html)	
-[![IEC 60870-5-104 Protocol Server Simulator With Reliance HMI SCADA](https://www.freyrscada.com/images/IEC104_Server_Simulator_Reliance-HMI-SCADA.jpg)](https://www.freyrscada.com/IEC104_Server_Simulator_Reliance-HMI-SCADA.html)
+## [IEC 60870-5-104 Protocol Server Simulator With Reliance HMI SCADA](http://www.freyrscada.com/IEC104_Server_Simulator_Reliance-HMI-SCADA.html)	
+[![IEC 60870-5-104 Protocol Server Simulator With Reliance HMI SCADA](http://www.freyrscada.com/images/IEC104_Server_Simulator_Reliance-HMI-SCADA.jpg)](http://www.freyrscada.com/IEC104_Server_Simulator_Reliance-HMI-SCADA.html)
 
-## [IEC 60870-5-104 Protocol Server in Beaglebone Arm Linux](https://www.freyrscada.com/IEC104_Server_Beaglebone_Arm_Linux.html)	
-[![IEC 60870-5-104 Protocol Server in Beaglebone Arm Linux](https://www.freyrscada.com/images/IEC104_Server_Beaglebone_Arm_Linux.jpg)](https://www.freyrscada.com/IEC104_Server_Beaglebone_Arm_Linux.html)
+## [IEC 60870-5-104 Protocol Server in Beaglebone Arm Linux](http://www.freyrscada.com/IEC104_Server_Beaglebone_Arm_Linux.html)	
+[![IEC 60870-5-104 Protocol Server in Beaglebone Arm Linux](http://www.freyrscada.com/images/IEC104_Server_Beaglebone_Arm_Linux.jpg)](http://www.freyrscada.com/IEC104_Server_Beaglebone_Arm_Linux.html)
 
-## [IEC 60870-5-104 Protocol Server Redundancy](https://www.freyrscada.com/iec-104-redundancy.html)	
-[![IEC 60870-5-104 Protocol Server Redundancy](https://www.freyrscada.com/images/iec-104-redundancy.jpg)](https://www.freyrscada.com/iec-104-redundancy.html)
+## [IEC 60870-5-104 Protocol Server Redundancy](http://www.freyrscada.com/iec-104-redundancy.html)	
+[![IEC 60870-5-104 Protocol Server Redundancy](http://www.freyrscada.com/images/iec-104-redundancy.jpg)](http://www.freyrscada.com/iec-104-redundancy.html)
  
 ## [IEC 60870-5-104 Protocol Server Simulator With VTScada HMI SCADA](http://www.freyrscada.com/IEC104-Server-Simulator-With-VTScada.html)	
 [![IEC 60870-5-104 Protocol Server Simulator With VTScada HMI SCADA](http://www.freyrscada.com/images/IEC104-Server-Simulator-With-VTScada.jpg)](http://www.freyrscada.com/IEC104-Server-Simulator-With-VTScada.html)
@@ -317,6 +317,6 @@ ASDU_TYPE_127..255  127..255  Reserved (user area)
 [youtube](https://www.youtube.com/playlist?list=PL4tVfIsUhy1bx7TVjtZnqFB6tbZBhOlJP)
 
 
-# [Download Evaluation Kit - IEC 104 Protocol Development Bundle](https://www.freyrscada.com/iec-60870-5-104.php#Download-IEC60870-5-104-Development-Bundle)
+# [Download Evaluation Kit - IEC 104 Protocol Development Bundle](http://www.freyrscada.com/iec-60870-5-104.php#Download-IEC60870-5-104-Development-Bundle)
 
 In the Development Bundle, We included IEC 60870-5 part 104 Protocol Server  Client Simulator, Windows and Linux SDK, C# projects, Doxygen documentation and Raspberry Pi, BeagleBone Demo library.
