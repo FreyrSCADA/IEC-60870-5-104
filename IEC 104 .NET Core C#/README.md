@@ -12,7 +12,7 @@ we did a c# wrapper for our IEC 104 implementation in .net core.
 and tested in Windows and linux x86_64.
 
 
-using this, you can simulate complete IEC 104 Server device(iec104servertest.py) and client(iec104clienttest.py).
+using this, you can simulate complete IEC 104 Server device(iec104servertest.cs) and client(iec104clienttest.cs).
 
 
 or you can use nuget - [iec60870_5_104](https://www.nuget.org/packages/iec60870_5_104)
