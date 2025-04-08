@@ -1,7 +1,7 @@
 site_name: IEC 60870-5-104 Protocol
 site_description: iec 104 protocol simulator, windows linux sdk
 
-site_url: https://teaddoctest.readthedocs.io/
+site_url: https://iec-60870-5-104-protocol.readthedocs.io/
 use_directory_urls: false
 docs_dir: 'mkdoc'
 
