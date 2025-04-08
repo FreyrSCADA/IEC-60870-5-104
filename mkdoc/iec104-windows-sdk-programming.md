@@ -8,7 +8,7 @@ The source code will allow you to quickly compile your own examples with the fea
 We used Visual studio compiler to create the dll, sample test projects.
 
 
-[![IEC 60870-5-104 Windows C C++ C# .NET](./img/iec-104-windows-protocol.jpg)](http://www.freyrscada.com/iec-60870-5-104-Windows-Software-Development-Kit(SDK).php)
+[![IEC 60870-5-104 Windows C C++ C# .NET](https://www.freyrscada.com/images/104w320x220_win_sdk.jpg)](http://www.freyrscada.com/iec-60870-5-104-Windows-Software-Development-Kit(SDK).php)
 
 
 This evaluation package allows you to:
