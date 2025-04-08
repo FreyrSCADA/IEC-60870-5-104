@@ -32,7 +32,7 @@ theme:
     - content.code.copy
   language: en
   theme:
-    custom_dir: mkdoc/overrides
+    custom_dir: overrides
   palette:
     - scheme: default
       toggle:
