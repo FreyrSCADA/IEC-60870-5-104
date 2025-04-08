@@ -31,8 +31,7 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: en
-  theme:
-    custom_dir: overrides
+  custom_dir: overrides
   palette:
     - scheme: default
       toggle:
