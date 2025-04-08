@@ -9,7 +9,7 @@ IEC 60870-5-104 Linux SDK contains Shared Library(.a) (precompiled library), Sta
 
 We used gcc compiler to create the Shared Library, sample test projects.
 
-[![IEC 60870-5-104 Protocol Linux C C++ POSIX](./img/iec-104-linux-protocol.jpg)](http://www.freyrscada.com/iec-60870-5-104-Linux-Software-Development-Kit(SDK).php)
+[![IEC 60870-5-104 Protocol Linux C C++ POSIX](https://www.freyrscada.com/images/104w320x220_linux_sdk.jpg)](http://www.freyrscada.com/iec-60870-5-104-Linux-Software-Development-Kit(SDK).php)
 
 
 This evaluation package allows you to:
