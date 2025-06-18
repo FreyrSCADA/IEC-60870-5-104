@@ -51,6 +51,9 @@ theme:
 plugins:
   - social
 
+extra_javascript:
+  - js/structured-data.js
+
 extra:
   social:
     - icon: fontawesome/brands/youtube
