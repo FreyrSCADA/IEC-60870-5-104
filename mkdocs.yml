@@ -52,7 +52,7 @@ plugins:
   - social
 
 extra_javascript:
-  - 'structured-data.js'
+  - structured-data.js
 
 extra:
   social:
