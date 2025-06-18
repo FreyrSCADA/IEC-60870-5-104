@@ -1,4 +1,4 @@
-'''
+<!--
 <script type="application/ld+json">
 {
   "@context" : "http://schema.org",
@@ -58,7 +58,7 @@
   }
 }
 </script> 
-'''
+-->
 
 # [IEC 60870-5-104 Protocol](http://www.freyrscada.com/iec-60870-5-104.php)
 
