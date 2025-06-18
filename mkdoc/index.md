@@ -1,3 +1,62 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "brand": {
+        "@type": "Brand",
+        "name": "IEC 60870-5-104 Protocol"
+      },
+  "name" : "IEC 60870-5-104 Protocol",
+  "sku": "IEC-60870-5-104-Protocol",
+  "mpn": "IEC-60870-5-104-Protocol",
+  "logo" : "https://www.freyrscada.com/images/iec-104-main-151x154.png",
+  "image": [
+        "https://www.freyrscada.com/images/iec-104-main-1x1.jpg",
+        "https://www.freyrscada.com/images/iec-104-main-4x3.jpg",
+        "https://www.freyrscada.com/images/iec-104-main-16x9.jpg"
+       ],
+  "description" : "IEC 60870-5-104 protocol Server RTU IED Master Client simulator, Source Code Library, stack, Driver for Windows Linux C C++ C#.NET Programming",
+  "url" : "https://iec-60870-5-104-protocol.readthedocs.io/",
+  "offers" : {
+    "@type" : "Offer",
+    "url" : "https://iec-60870-5-104-protocol.readthedocs.io/",
+    "priceCurrency": "USD",
+    "price" : "1500",
+    "priceValidUntil": "2026-12-31",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition",
+    "hasMerchantReturnPolicy": {
+        "value": true
+      },
+     "shippingDetails": {
+        "type": "FreeShipping",
+        "price": "0"
+      }
+  },
+  
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "126",
+	"reviewCount": "89"
+  },
+  
+  "review" : {
+    "@type" : "Review",
+    "author" : {
+      "@type" : "Person",
+      "name" : "Panasonic Singapore"
+    },
+    "reviewRating" : {
+      "@type" : "Rating",
+      "ratingValue" : "96",
+      "bestRating" : "100",
+      "worstRating" : "88"
+    },
+    "reviewBody" : "Best IEC 60870-5-104 Protocol solution easy to integrate with our RTU products"
+  }
+}
+</script>
 # [IEC 60870-5-104 Protocol](http://www.freyrscada.com/iec-60870-5-104.php)
 
 
