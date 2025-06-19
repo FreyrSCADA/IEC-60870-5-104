@@ -2,14 +2,72 @@
 {% block extrahead %}
 <meta name="google-site-verification" content="UQ0-GAedpx8bqsQwuVlSM6EqZBuhYZRhMSB0NkqUkco" />
 
-<script type="application/ld+json">
+<script type='application/ld+json'> 
 {
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "{{ page.title }}",
-    "url": "{{ config.site_url }}{{ page.url }}"
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": {
+        "@type": "Brand",
+        "name": "{{ page.title }}"
+      },
+  "name": "IEC-60870-5-104-protocol",
+  "image": "https://www.freyrscada.com/images/104w320x220.jpg",
+  "description": "IEC 104 Protocol simulator, Python Windows, Linux, .net core c#  more. Low memory footprint, easy start on any hardware platform, can operate with or without an operating system, delivered as a source code, high configurability allows to use required features only, royalty-free licensing.",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "96",
+	"reviewCount": "89"
+  },
+  "url": "{{ config.site_url }}{{ page.url }}",
+  "sku": "13232",
+  "mpn": "78767",
+  "productID": "IEC-104-Protocol",
+   "offers": {
+    "@type": "Offer",
+    "priceCurrency": "EUR",
+    "price": "5125",
+    "priceValidUntil": "2026-12-31",
+    "itemCondition": "http://schema.org/NewCondition",
+	"url": "{{ config.site_url }}{{ page.url }}",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "FreyrSCADA Embedded Solution"
+    },
+    "hasMerchantReturnPolicy": {
+        "value": false,
+          "applicableCountry": "US",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 7,
+          "returnMethod": "https://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/FreeReturn"
+      },
+      "shippingDetails": {
+        "type": "FreeShipping",
+        "price": "0"
+      }
+    },
+	"review": [
+    {
+      "@type": "Review",
+      "author" : {
+      "@type" : "Person",
+      "name" : "Panasonic Singapore"
+	  },
+	  "datePublished": "2025-01-25",
+	  "description": "Best iec 104 solution - easy to integrate with our RTU and HMI products",
+      "name": "Value purchase",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "4",
+        "worstRating": "1"
+      }
+    }
+  ]
 }
-</script>
+ </script>
 
 {{ super() }}
 {% endblock %}
