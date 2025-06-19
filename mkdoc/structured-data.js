@@ -1,11 +1,13 @@
-document.addEventListener("DOMContentLoaded", function() {
-    const jsonLdScript = document.createElement("script");
-    jsonLdScript.type = "application/ld+json";
-    jsonLdScript.innerHTML = JSON.stringify({
+document.addEventListener("DOMContentLoaded", function () {
+    var jsonLdData = {
         "@context": "https://schema.org",
         "@type": "WebPage",
         "name": document.title,
         "url": window.location.href
-    });
-    document.head.appendChild(jsonLdScript);
+    };
+
+    var scriptTag = document.createElement("script");
+    scriptTag.type = "application/ld+json";
+    scriptTag.textContent = JSON.stringify(jsonLdData);
+    document.head.appendChild(scriptTag);
 });
