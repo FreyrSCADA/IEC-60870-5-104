@@ -51,8 +51,7 @@ theme:
 plugins:
   - social
 
-extra_javascript:
-  - structured-data.js
+
 
 extra:
   social:
@@ -88,3 +87,6 @@ markdown_extensions:
 
 copyright: |
   &copy; 2025 <a href="https://github.com/FreyrSCADA"  target="_blank" rel="noopener">FreyrSCADA</a>
+
+extra_javascript:
+  - structured-data.js
