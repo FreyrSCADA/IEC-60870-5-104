@@ -18,7 +18,7 @@ nav:
       - IEC 104 .Net Core SDK : iec104-netcore-programming.md
   - Videos:
       - IEC 60870-5-104 Simulator and Programming tutorial videos: iec104-simulator-programming-tutorial-video.md
-  - Sitemap: mkdoc/sitemap.txt
+  - Sitemap: sitemap.txt
 theme:
   name: material
   logo: img/iec104.svg
