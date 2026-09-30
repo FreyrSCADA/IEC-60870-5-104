@@ -1,0 +1,473 @@
+# depslib dependency file v1.0
+1500094907 source:/media/sf_kr/products/112IEC104/release/FS-IEC104-V21.03.022/LinuxSDK/source/simpleIEC104client.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/time.h>
+	<termios.h>
+	<fcntl.h>
+	<conio.h>
+	<process.h>
+	"tgttypes.h"
+	"iec104api.h"
+
+1485614804 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.03.022/LinuxSDK/header/tgttypes.h
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<float.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdint.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+	<mqueue.h>
+	"tgtdefines.h"
+
+1500038480 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.03.022/LinuxSDK/header/tgtdefines.h
+
+1500087428 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.03.022/LinuxSDK/header/iec104api.h
+	"iec104types.h"
+
+1500090815 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.03.022/LinuxSDK/header/iec104types.h
+	<tgttypes.h>
+	<tgtincludes.h>
+	<tgtcommon.h>
+
+1500038478 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.03.022/LinuxSDK/header/tgtincludes.h
+	"tgterrorcodes.h"
+	"tgterrorvalues.h"
+
+1500038475 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.03.022/LinuxSDK/header/tgterrorcodes.h
+
+1500038475 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.03.022/LinuxSDK/header/tgterrorvalues.h
+
+1500038479 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.03.022/LinuxSDK/header/tgtcommon.h
+	"tgttypes.h"
+
+1517062470 source:/media/sf_kr/products/112IEC104/release/FS-IEC104-V21.03.028/LinuxSDK/source/simpleIEC104client.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/time.h>
+	<termios.h>
+	<fcntl.h>
+	<conio.h>
+	<process.h>
+	"tgttypes.h"
+	"iec104api.h"
+
+1517219016 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.03.028/LinuxSDK/header/tgttypes.h
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<float.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdint.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+	<mqueue.h>
+	"tgtdefines.h"
+
+1517062108 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.03.028/LinuxSDK/header/tgtdefines.h
+
+1517011211 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.03.028/LinuxSDK/header/iec104api.h
+	"iec104types.h"
+
+1517011210 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.03.028/LinuxSDK/header/iec104types.h
+	<tgttypes.h>
+	<tgtincludes.h>
+	<tgtcommon.h>
+
+1517062108 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.03.028/LinuxSDK/header/tgtincludes.h
+	"tgterrorcodes.h"
+	"tgterrorvalues.h"
+
+1517062108 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.03.028/LinuxSDK/header/tgterrorcodes.h
+
+1517062108 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.03.028/LinuxSDK/header/tgterrorvalues.h
+
+1517062108 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.03.028/LinuxSDK/header/tgtcommon.h
+	"tgttypes.h"
+
+1517358912 source:/media/sf_kr/products/112IEC104/release/FS-IEC104-V21.03.028/LinuxSDK/source/simpleIEC104test-MultipleClients.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/time.h>
+	<termios.h>
+	<fcntl.h>
+	<conio.h>
+	<process.h>
+	"tgttypes.h"
+	"iec104api.h"
+
+1517358912 source:/media/sf_kr/products/112IEC104/release/FS-IEC104-V21.03.028/LinuxSDK/source/simpleIEC104client-autogendata.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/time.h>
+	<termios.h>
+	<fcntl.h>
+	<conio.h>
+	<process.h>
+	"tgttypes.h"
+	"iec104api.h"
+
+1520245614 source:/media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.001/LinuxSDK/i386/source/simpleIEC104client.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/time.h>
+	<termios.h>
+	<fcntl.h>
+	<conio.h>
+	<process.h>
+	"tgttypes.h"
+	"iec104api.h"
+
+1517219016 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.001/LinuxSDK/i386/header/tgttypes.h
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<float.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdint.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+	<mqueue.h>
+	"tgtdefines.h"
+
+1517062108 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.001/LinuxSDK/i386/header/tgtdefines.h
+
+1518425862 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.001/LinuxSDK/i386/header/iec104api.h
+	"iec104types.h"
+
+1517743060 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.001/LinuxSDK/i386/header/iec104types.h
+	<tgttypes.h>
+	<tgtincludes.h>
+	<tgtcommon.h>
+
+1517062108 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.001/LinuxSDK/i386/header/tgtincludes.h
+	"tgterrorcodes.h"
+	"tgterrorvalues.h"
+
+1517062108 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.001/LinuxSDK/i386/header/tgterrorcodes.h
+
+1517062108 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.001/LinuxSDK/i386/header/tgterrorvalues.h
+
+1517062108 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.001/LinuxSDK/i386/header/tgtcommon.h
+	"tgttypes.h"
+
+1520245616 source:/media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.003/LinuxSDK/i386/source/simpleIEC104client.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/time.h>
+	<termios.h>
+	<fcntl.h>
+	<conio.h>
+	<process.h>
+	"tgttypes.h"
+	"iec104api.h"
+
+1517219018 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.003/LinuxSDK/i386/header/tgttypes.h
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<float.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdint.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+	<mqueue.h>
+	"tgtdefines.h"
+
+1517062110 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.003/LinuxSDK/i386/header/tgtdefines.h
+
+1527071800 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.003/LinuxSDK/i386/header/iec104api.h
+	"iec104types.h"
+
+1517743060 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.003/LinuxSDK/i386/header/iec104types.h
+	<tgttypes.h>
+	<tgtincludes.h>
+	<tgtcommon.h>
+
+1517062110 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.003/LinuxSDK/i386/header/tgtincludes.h
+	"tgterrorcodes.h"
+	"tgterrorvalues.h"
+
+1517062110 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.003/LinuxSDK/i386/header/tgterrorcodes.h
+
+1517062110 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.003/LinuxSDK/i386/header/tgterrorvalues.h
+
+1517062110 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.003/LinuxSDK/i386/header/tgtcommon.h
+	"tgttypes.h"
+
+1528300272 source:/media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.004/LinuxSDK/i386/source/simpleIEC104client.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/time.h>
+	<termios.h>
+	<fcntl.h>
+	<terminalInput.h>
+	"tgttypes.h"
+	"iec104api.h"
+
+1528295702 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.004/LinuxSDK/i386/header/terminalInput.h
+
+1517219018 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.004/LinuxSDK/i386/header/tgttypes.h
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<float.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdint.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+	<mqueue.h>
+	"tgtdefines.h"
+
+1517062110 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.004/LinuxSDK/i386/header/tgtdefines.h
+
+1528250123 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.004/LinuxSDK/i386/header/iec104api.h
+	"iec104types.h"
+
+1517743060 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.004/LinuxSDK/i386/header/iec104types.h
+	<tgttypes.h>
+	<tgtincludes.h>
+	<tgtcommon.h>
+
+1517062110 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.004/LinuxSDK/i386/header/tgtincludes.h
+	"tgterrorcodes.h"
+	"tgterrorvalues.h"
+
+1517062110 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.004/LinuxSDK/i386/header/tgterrorcodes.h
+
+1517062110 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.004/LinuxSDK/i386/header/tgterrorvalues.h
+
+1517062110 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.004/LinuxSDK/i386/header/tgtcommon.h
+	"tgttypes.h"
+
+1528296392 source:/media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.004/LinuxSDK/i386/source/terminalInput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	"terminalinput.h"
+
+1533206427 source:/media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.008/LinuxSDK/x86_64/source/terminalInput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	"terminalInput.h"
+
+1533206465 source:/media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.008/LinuxSDK/x86_64/source/simpleIEC104client.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/time.h>
+	<termios.h>
+	<fcntl.h>
+	<terminalInput.h>
+	"tgttypes.h"
+	"iec104api.h"
+
+1517219018 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.008/LinuxSDK/x86_64/header/tgttypes.h
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<float.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdint.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+	<mqueue.h>
+	"tgtdefines.h"
+
+1517062110 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.008/LinuxSDK/x86_64/header/tgtdefines.h
+
+1532922160 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.008/LinuxSDK/x86_64/header/iec104api.h
+	"iec104types.h"
+
+1532503040 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.008/LinuxSDK/x86_64/header/iec104types.h
+	<tgttypes.h>
+	<tgtincludes.h>
+	<tgtcommon.h>
+
+1517062110 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.008/LinuxSDK/x86_64/header/tgtincludes.h
+	"tgterrorcodes.h"
+	"tgterrorvalues.h"
+
+1517062110 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.008/LinuxSDK/x86_64/header/tgterrorcodes.h
+
+1517062110 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.008/LinuxSDK/x86_64/header/tgterrorvalues.h
+
+1517062110 /media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.008/LinuxSDK/x86_64/header/tgtcommon.h
+	"tgttypes.h"
+
+1533222628 source:/media/sf_kr/products/112IEC104/release/FS-IEC104-V21.04.010/LinuxSDK/x86_64/source/terminalInput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	"terminalInput.h"
+
+1535222066 source:/root/Desktop/iec104/LinuxSDK/x86_64/source/terminalInput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	"terminalinput.h"
+
+1009844189 /root/Desktop/iec104/LinuxSDK/x86_64/header/terminalinput.h
+
+1614564874 source:/media/sf_kr/products/112IEC104/release/IEC104-V21.05.010/LinuxSDK/x86_64/source/simpleIEC104client.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/time.h>
+	<termios.h>
+	<fcntl.h>
+	<terminalinput.h>
+	"tgttypes.h"
+	"iec104api.h"
+
+1542346018 /media/sf_kr/products/112IEC104/release/IEC104-V21.05.010/LinuxSDK/x86_64/header/terminalinput.h
+
+1574908988 /media/sf_kr/products/112IEC104/release/IEC104-V21.05.010/LinuxSDK/x86_64/header/tgttypes.h
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<float.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdint.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+	<mqueue.h>
+	"tgtdefines.h"
+
+1542345816 /media/sf_kr/products/112IEC104/release/IEC104-V21.05.010/LinuxSDK/x86_64/header/tgtdefines.h
+
+1635130564 /media/sf_kr/products/112IEC104/release/IEC104-V21.05.010/LinuxSDK/x86_64/header/iec104api.h
+	"iec104types.h"
+
+1595210104 /media/sf_kr/products/112IEC104/release/IEC104-V21.05.010/LinuxSDK/x86_64/header/iec104types.h
+	"iec60870common.h"
+
+1571975562 /media/sf_kr/products/112IEC104/release/IEC104-V21.05.010/LinuxSDK/x86_64/header/iec60870common.h
+	<tgttypes.h>
+	<tgtincludes.h>
+	<tgtcommon.h>
+	<tgtserialtypes.h>
+
+1542345816 /media/sf_kr/products/112IEC104/release/IEC104-V21.05.010/LinuxSDK/x86_64/header/tgtincludes.h
+	"tgterrorcodes.h"
+	"tgterrorvalues.h"
+
+1542345816 /media/sf_kr/products/112IEC104/release/IEC104-V21.05.010/LinuxSDK/x86_64/header/tgterrorcodes.h
+
+1542345816 /media/sf_kr/products/112IEC104/release/IEC104-V21.05.010/LinuxSDK/x86_64/header/tgterrorvalues.h
+
+1571975774 /media/sf_kr/products/112IEC104/release/IEC104-V21.05.010/LinuxSDK/x86_64/header/tgtcommon.h
+	"tgttypes.h"
+
+1571975932 /media/sf_kr/products/112IEC104/release/IEC104-V21.05.010/LinuxSDK/x86_64/header/tgtserialtypes.h
+
+1742523254 source:/media/sf_kr/products/112IEC104/release/IEC104-V21.06.012/LinuxSDK/x86_64/source/simpleIEC104client.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/time.h>
+	<termios.h>
+	<fcntl.h>
+	<terminalinput.h>
+	"tgttypes.h"
+	"iec104api.h"
+
+1542346018 /media/sf_kr/products/112IEC104/release/IEC104-V21.06.012/LinuxSDK/x86_64/header/terminalinput.h
+
+1574908988 /media/sf_kr/products/112IEC104/release/IEC104-V21.06.012/LinuxSDK/x86_64/header/tgttypes.h
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<float.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdint.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+	<mqueue.h>
+	"tgtdefines.h"
+
+1542345816 /media/sf_kr/products/112IEC104/release/IEC104-V21.06.012/LinuxSDK/x86_64/header/tgtdefines.h
+
+1741515391 /media/sf_kr/products/112IEC104/release/IEC104-V21.06.012/LinuxSDK/x86_64/header/iec104api.h
+	"iec104types.h"
+
+1736699484 /media/sf_kr/products/112IEC104/release/IEC104-V21.06.012/LinuxSDK/x86_64/header/iec104types.h
+	"iec60870common.h"
+
+1571975562 /media/sf_kr/products/112IEC104/release/IEC104-V21.06.012/LinuxSDK/x86_64/header/iec60870common.h
+	<tgttypes.h>
+	<tgtincludes.h>
+	<tgtcommon.h>
+	<tgtserialtypes.h>
+
+1542345816 /media/sf_kr/products/112IEC104/release/IEC104-V21.06.012/LinuxSDK/x86_64/header/tgtincludes.h
+	"tgterrorcodes.h"
+	"tgterrorvalues.h"
+
+1542345816 /media/sf_kr/products/112IEC104/release/IEC104-V21.06.012/LinuxSDK/x86_64/header/tgterrorcodes.h
+
+1542345816 /media/sf_kr/products/112IEC104/release/IEC104-V21.06.012/LinuxSDK/x86_64/header/tgterrorvalues.h
+
+1571975774 /media/sf_kr/products/112IEC104/release/IEC104-V21.06.012/LinuxSDK/x86_64/header/tgtcommon.h
+	"tgttypes.h"
+
+1571975932 /media/sf_kr/products/112IEC104/release/IEC104-V21.06.012/LinuxSDK/x86_64/header/tgtserialtypes.h
+

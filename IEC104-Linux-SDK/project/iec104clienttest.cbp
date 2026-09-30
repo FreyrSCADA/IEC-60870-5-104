@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="iec104clienttest" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="../output/iec104clienttest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="../intermediate/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="../header" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="../library/libx86_x64-iec104.a" />
+					<Add library="pthread" />
+					<Add library="rt" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../source/simpleIEC104client.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../source/terminalInput.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
