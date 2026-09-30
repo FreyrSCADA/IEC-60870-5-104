@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="iec104servertest.vcxproj" Id="476c7606-64e8-4212-aab5-fad54a079ada" />
+</Solution>
